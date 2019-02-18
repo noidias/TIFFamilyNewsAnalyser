@@ -1,0 +1,719 @@
+Imperial Conflict
+  T 978   128,477,258   45,561,421   0   0   0
+ToT
+ HQ
+ Messages
+ Map
+ Family
+ Family Forum
+ Foreign Relations
+ Military
+ Planets
+ Market
+ Rankings
+ Bookmarks
+ Tools
+ Empire Settings
+ Switch Empire
+
+Family #
+ 
+x,y or x,y:num
+ Store
+ Donate
+ Forum
+ Family Forum
+ Chat
+ Rules
+ Guide
+ Contact
+Your Family
+Overview
+News
+Council
+Vote
+Aid
+Defense
+Chat
+The Family News: Ticks 878-978
+empire
+type
+time desc
+time asc
+A	T-977		In the name of family cooperation Who has sent a shipment of 30456145 Food to TIF.
+EA	T-969		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 55,20 system which was attacked by Titanias_anglesmith of family 6361.
+FA	T-959		kratom made an attack against planet 11 in the 85,84 system owned by ThreeBearEmpire (6364), but the planet's defense was too strong.
+A	T-952		In the name of family cooperation TIF has sent a shipment of 252622093 Cash to kratom.
+A	T-951		In the name of family cooperation TIF has sent a shipment of 72969076 Cash 3850048 Iron 247670 Octarine 1348244 Endurium to kratom.
+E	T-949		Blood Eagle explored planet 3 in the 50,24 system.
+E	T-949		Blood Eagle explored planet 6 in the 50,24 system.
+E	T-949		Blood Eagle explored planet 2 in the 50,24 system.
+E	T-948		Blood Eagle explored planet 8 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 3 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 6 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 12 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 10 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 11 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 13 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 4 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 1 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 2 in the 55,20 system.
+E	T-948		Blood Eagle explored planet 2 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 5 in the 52,19 system.
+E	T-948		Blood Eagle explored planet 9 in the 52,19 system.
+SA	T-948		Blood Eagle attacked Titanias_anglesmith (6361) on planet 6 in the 50,24 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked IHATeCAKE (6361) on planet 2 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked IHATeCAKE (6361) on planet 2 in the 55,20 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked IHATeCAKE (6361) on planet 3 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked IHATeCAKE (6361) on planet 1 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 6 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 12 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 13 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 9 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 10 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 11 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 5 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked IHATeCAKE (6361) on planet 8 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 4 in the 52,19 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 2 in the 50,24 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-948		Blood Eagle attacked stormwold (6361) on planet 3 in the 50,24 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+FA	T-948		Blood Eagle made an attack against planet 9 in the 50,24 system owned by stormwold (6361), but the planet's defense was too strong.
+FA	T-948		Blood Eagle made an attack against planet 1 in the 50,24 system owned by stormwold (6361), but the planet's defense was too strong.
+FA	T-948		Blood Eagle made an attack against planet 5 in the 50,24 system owned by stormwold (6361), but the planet's defense was too strong.
+FA	T-948		Blood Eagle made an attack against planet 4 in the 50,24 system owned by stormwold (6361), but the planet's defense was too strong.
+FA	T-948		Blood Eagle made an attack against planet 8 in the 50,24 system owned by stormwold (6361), but the planet's defense was too strong.
+A	T-940		In the name of family cooperation Biscuit has sent a shipment of 110593861 Food 2902198 Iron 133127 Octarine 850259 Endurium to TIF.
+A	T-940		In the name of family cooperation Who has sent a shipment of 14633475 Food 318144 Iron 38490 Octarine 13661 Endurium to TIF.
+EA	T-940		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 100,83 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 100,83 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 99,3 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 5 in the 94,3 system which was attacked by Vladimir_Putin of family 6362.
+FA	T-939		kratom made an attack against planet 4 in the 88,89 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-939		kratom made an attack against planet 11 in the 98,4 system owned by Rivan (6362), but the planet's defense was too strong.
+SA	T-939		The forces of kratom took planet 10 in the 68,10 system from OscarTheGrouch (6362).
+FA	T-939		kratom made an attack against planet 2 in the 80,2 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-939		The forces of kratom took planet 4 in the 81,85 system from OscarTheGrouch (6362).
+FA	T-939		kratom made an attack against planet 13 in the 74,7 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-939		kratom made an attack against planet 9 in the 74,7 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-939		kratom made an attack against planet 13 in the 74,7 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 7 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 13 in the 75,91 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 9 in the 75,91 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 4 in the 75,91 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 2 in the 75,91 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Vladimir_Putin, family 6362 attacked Who's planet 6 in the 100,83 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Vladimir_Putin, family 6362 attacked Who's planet 5 in the 100,83 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 1 in the 66,7 system which was attacked by Bill_Cosby of family 6362.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 66,7 system which was attacked by Bill_Cosby of family 6362.
+EA	T-939		After a brave fight our family member Biscuit had to flee the planet planet 1 in the 83,83 system which was attacked by Bill_Cosby of family 6362.
+EA	T-939		After a brave fight our family member Biscuit had to flee the planet planet 2 in the 83,83 system which was attacked by Bill_Cosby of family 6362.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 10 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 7 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 8 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 6 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 5 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 4 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 3 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 2 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-939		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 94,78 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-937		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+E	T-936		Blood Eagle explored planet 6 in the 96,83 system.
+EA	T-936		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-936		Our family member Blood Eagle managed to defend planet 3 in the 96,83 system against an attack by forces from OscarTheGrouch, family 6362.
+A	T-936		In the name of family cooperation Who has sent a shipment of 37369172 Food 1005099 Iron 129833 Octarine to royal victorin.
+EA	T-936		Our family member Blood Eagle managed to defend planet 3 in the 96,83 system against an attack by forces from OscarTheGrouch, family 6362.
+FA	T-936		Who made an attack against planet 13 in the 73,11 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+SA	T-936		Blood Eagle attacked OscarTheGrouch (6362) on planet 6 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-936		Blood Eagle attacked Rivan (6362) on planet 3 in the 93,6 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-936		The forces of Blood Eagle took planet 3 in the 96,83 system from Justin_Bieber (6362).
+SA	T-936		Blood Eagle attacked OscarTheGrouch (6362) on planet 2 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-936		The forces of Blood Eagle took planet 5 in the 94,3 system from Justin_Bieber (6362).
+SA	T-936		The forces of Blood Eagle took planet 3 in the 100,83 system from Justin_Bieber (6362).
+SA	T-936		The forces of Blood Eagle took planet 12 in the 70,91 system from Silvio_Berlusconi (6362).
+SA	T-936		The forces of Blood Eagle took planet 4 in the 99,3 system from Silvio_Berlusconi (6362).
+SA	T-936		The forces of Blood Eagle took planet 6 in the 98,4 system from Silvio_Berlusconi (6362).
+EA	T-936		After a brave fight our family member Blood Eagle had to flee the planet planet 5 in the 66,7 system which was attacked by Bill_Cosby of family 6362.
+EA	T-935		An overwhelming force from OscarTheGrouch, family 6362 attacked kratom's planet 9 in the 98,4 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 5 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 7 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 6 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 4 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 8 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 3 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 9 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 2 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 13 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 12 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 11 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-935		An overwhelming force from Bill_Cosby, family 6362 attacked Who's planet 1 in the 79,1 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-934		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 1 in the 72,99 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-933		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 68,10 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-933		After a brave fight our family member Blood Eagle had to flee the planet planet 9 in the 97,82 system which was attacked by Bill_Cosby of family 6362.
+EA	T-933		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 68,10 system which was attacked by Bill_Cosby of family 6362.
+EA	T-933		Our family member Blood Eagle managed to defend planet 10 in the 68,10 system against an attack by forces from Bill_Cosby, family 6362.
+EA	T-933		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 11 in the 72,99 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-933		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 6 in the 72,99 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 12 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 10 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 9 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 8 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 7 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 3 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		After a brave fight our family member Biscuit had to flee the planet planet 5 in the 72,99 system which was attacked by Rivan of family 6362.
+EA	T-933		Our family member Biscuit managed to defend planet 3 in the 72,99 system against an attack by forces from Rivan, family 6362.
+EA	T-933		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-933		After a brave fight our family member Blood Eagle had to flee the planet planet 7 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-933		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 13 in the 74,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-933		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 10 in the 74,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 73,11 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-932		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 73,11 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-932		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 73,11 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 9 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 8 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 7 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 6 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 5 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 2 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 1 in the 70,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 4 in the 70,91 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 12 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 10 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 9 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 7 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 4 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 3 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 68,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-932		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-931		After a brave fight our family member Blood Eagle had to flee the planet planet 1 in the 73,11 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-931		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 70,16 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-931		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-931		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-931		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-931		Our family member Blood Eagle managed to defend planet 10 in the 95,83 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-931		After a brave fight our family member Blood Eagle had to flee the planet planet 8 in the 95,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-930		Our family member Blood Eagle managed to defend planet 5 in the 85,84 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-930		Our family member Blood Eagle managed to defend planet 5 in the 85,84 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-930		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+E	T-929		Blood Eagle explored planet 8 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 4 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 1 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 10 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 9 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 6 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 3 in the 88,87 system.
+E	T-929		Blood Eagle explored planet 13 in the 96,83 system.
+SA	T-929		Blood Eagle attacked OscarTheGrouch (6362) on planet 8 in the 68,10 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked OscarTheGrouch (6362) on planet 13 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked OscarTheGrouch (6362) on planet 3 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked OscarTheGrouch (6362) on planet 1 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked OscarTheGrouch (6362) on planet 12 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		The forces of Blood Eagle took planet 8 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		The forces of Blood Eagle took planet 12 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		The forces of Blood Eagle took planet 13 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		The forces of Blood Eagle took planet 10 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		The forces of Blood Eagle took planet 6 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		The forces of Blood Eagle took planet 7 in the 95,83 system from Silvio_Berlusconi (6362).
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 1 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 4 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 8 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 3 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 10 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 9 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 6 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		Blood Eagle attacked Rivan (6362) on planet 12 in the 88,87 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-929		The forces of Blood Eagle took planet 10 in the 68,10 system from Vladimir_Putin (6362).
+SA	T-929		The forces of Blood Eagle took planet 2 in the 70,16 system from Vladimir_Putin (6362).
+SA	T-929		The forces of Blood Eagle took planet 6 in the 68,10 system from Vladimir_Putin (6362).
+EA	T-929		An overwhelming force from OscarTheGrouch, family 6362 attacked kratom's planet 1 in the 95,83 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-929		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 70,41 system which was attacked by Justin_Bieber of family 6362.
+A	T-928		In the name of family cooperation TIF has sent a shipment of 30000000 Cash to Who.
+EA	T-927		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 7 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 6 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 8 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 8 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 10 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 13 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 2 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 73,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 79,1 system which was attacked by Justin_Bieber of family 6362.
+EA	T-927		An overwhelming force from OscarTheGrouch, family 6362 attacked kratom's planet 3 in the 81,85 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-927		An overwhelming force from OscarTheGrouch, family 6362 attacked kratom's planet 4 in the 81,85 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+E	T-926		Who explored planet 8 in the 74,7 system.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 93,6 system which was attacked by Rivan of family 6362.
+EA	T-926		Our family member kratom managed to defend planet 12 in the 98,4 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-926		Our family member kratom managed to defend planet 9 in the 98,4 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-926		An overwhelming force from OscarTheGrouch, family 6362 attacked kratom's planet 11 in the 98,4 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 10 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 7 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+FA	T-926		Who made an attack against planet 4 in the 72,99 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 5 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+FA	T-926		Who made an attack against planet 13 in the 72,99 system owned by Rivan (6362), but the planet's defense was too strong.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 73,11 system which was attacked by Justin_Bieber of family 6362.
+SA	T-926		The forces of Who took planet 11 in the 72,99 system from Silvio_Berlusconi (6362).
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 73,11 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 9 in the 73,11 system which was attacked by Justin_Bieber of family 6362.
+FA	T-926		Who made an attack against planet 9 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-926		Who made an attack against planet 10 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 70,91 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 12 in the 70,91 system against an attack by forces from Silvio_Berlusconi, family 6362.
+FA	T-926		Who made an attack against planet 9 in the 74,7 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 11 in the 72,99 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 11 in the 72,99 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 74,1 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 74,1 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 7 in the 74,1 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 66,7 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 6 in the 66,7 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 73,5 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 4 in the 73,5 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 100,83 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 8 in the 70,90 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 8 in the 70,90 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 100,83 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 8 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 61,9 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 5 in the 94,3 system which was attacked by Justin_Bieber of family 6362.
+EA	T-926		Our family member Blood Eagle managed to defend planet 5 in the 94,3 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 74,7 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-926		Our family member Who managed to defend planet 8 in the 74,7 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-926		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 99,3 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-925		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 98,4 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-925		Our family member Blood Eagle managed to defend planet 6 in the 98,4 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-925		An overwhelming force from Vladimir_Putin, family 6362 attacked kratom's planet 4 in the 87,11 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+E	T-924		Blood Eagle explored planet 6 in the 96,83 system.
+E	T-924		Blood Eagle explored planet 2 in the 96,83 system.
+SA	T-924		Blood Eagle attacked OscarTheGrouch (6362) on planet 6 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-924		Blood Eagle attacked OscarTheGrouch (6362) on planet 13 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+FA	T-924		Blood Eagle made an attack against planet 4 in the 88,87 system owned by Rivan (6362), but the planet's defense was too strong.
+FA	T-924		Blood Eagle made an attack against planet 8 in the 95,83 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+FA	T-924		Blood Eagle made an attack against planet 12 in the 95,83 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+SA	T-924		Blood Eagle attacked OscarTheGrouch (6362) on planet 2 in the 96,83 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+FA	T-924		Blood Eagle made an attack against planet 12 in the 88,87 system owned by Rivan (6362), but the planet's defense was too strong.
+FA	T-924		Blood Eagle made an attack against planet 9 in the 88,87 system owned by Rivan (6362), but the planet's defense was too strong.
+FA	T-924		Blood Eagle made an attack against planet 8 in the 88,87 system owned by Rivan (6362), but the planet's defense was too strong.
+SA	T-924		The forces of Blood Eagle took planet 2 in the 65,88 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 2 in the 88,87 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 5 in the 94,3 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 3 in the 93,6 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 7 in the 65,88 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 9 in the 97,82 system from Vladimir_Putin (6362).
+SA	T-924		The forces of Blood Eagle took planet 5 in the 88,87 system from Vladimir_Putin (6362).
+FA	T-924		Blood Eagle made an attack against planet 10 in the 95,83 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+SA	T-924		The forces of Blood Eagle took planet 13 in the 88,87 system from Vladimir_Putin (6362).
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 11 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 13 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 5 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 12 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 8 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 7 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 6 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 1 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 9 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 4 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 2 in the 79,1 system.
+IA	T-923		In an intra family fight Who defeated Blood Eagle and took control over planet 3 in the 79,1 system.
+SA	T-920		The forces of Blood Eagle took planet 4 in the 73,11 system from Vladimir_Putin (6362).
+SA	T-920		Blood Eagle attacked Bill_Cosby (6362) on planet 4 in the 98,4 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-920		Blood Eagle attacked Bill_Cosby (6362) on planet 3 in the 98,4 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-920		The forces of Blood Eagle took planet 1 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 8 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 4 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 5 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 3 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 6 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 13 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 5 in the 66,7 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 4 in the 100,83 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 3 in the 66,7 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 7 in the 66,7 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 7 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 9 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 12 in the 66,7 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 6 in the 73,11 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 11 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 1 in the 66,7 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 2 in the 79,1 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 1 in the 73,11 system from Vladimir_Putin (6362).
+SA	T-920		The forces of Blood Eagle took planet 3 in the 73,11 system from Vladimir_Putin (6362).
+FA	T-920		Who made an attack against planet 1 in the 73,9 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-920		The forces of Blood Eagle took planet 12 in the 79,1 system from Vladimir_Putin (6362).
+FA	T-920		Who made an attack against planet 2 in the 73,9 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-920		Who made an attack against planet 3 in the 73,9 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+EA	T-919		Our family member Who managed to defend planet 5 in the 100,83 system against an attack by forces from Vladimir_Putin, family 6362.
+FA	T-919		Who made an attack against planet 9 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+SA	T-919		The forces of Who took planet 5 in the 87,91 system from OscarTheGrouch (6362).
+FA	T-919		Who made an attack against planet 4 in the 87,91 system owned by Bill_Cosby (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 11 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 8 in the 87,91 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 12 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 2 in the 87,91 system owned by OscarTheGrouch (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 1 in the 87,91 system owned by OscarTheGrouch (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 3 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 7 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-919		Who made an attack against planet 6 in the 87,91 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+EA	T-919		An overwhelming force from Rivan, family 6362 attacked kratom's planet 1 in the 87,11 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+E	T-918		Who explored planet 5 in the 74,7 system.
+EA	T-918		During the attack by Silvio_Berlusconi, our Defense Station in the system was destroyed!
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 4 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 2 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 3 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 13 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 11 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 12 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 6 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 1 in the 70,90 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 7 in the 70,90 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 13 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 12 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 10 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 8 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 7 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 6 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 5 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 4 in the 81,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 7 in the 65,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 13 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 12 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 11 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 10 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 9 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 8 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 6 in the 65,9 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 11 in the 73,4 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 9 in the 73,4 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 7 in the 73,4 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 6 in the 73,4 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Who's planet 2 in the 73,4 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 13 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 12 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 10 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 5 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 4 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 1 in the 73,4 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		Our family member royal victorin managed to defend planet 1 in the 73,4 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-918		An overwhelming force from Rivan, family 6362 attacked kratom's planet 4 in the 76,14 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Vladimir_Putin, family 6362 attacked Biscuit's planet 11 in the 100,83 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Vladimir_Putin, family 6362 attacked Biscuit's planet 7 in the 73,11 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-918		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 5 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+E	T-917		Who explored planet 1 in the 74,7 system.
+EA	T-917		An overwhelming force from Bill_Cosby, family 6362 attacked kratom's planet 1 in the 76,14 system. The defenders for kratom managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		After a brave fight our family member Biscuit had to flee the planet planet 2 in the 80,2 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-917		After a brave fight our family member Biscuit had to flee the planet planet 10 in the 85,5 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 74,7 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		After a brave fight our family member Biscuit had to flee the planet planet 8 in the 85,5 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 6 in the 85,5 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 5 in the 85,5 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 4 in the 85,5 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 3 in the 85,5 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 1 in the 85,5 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 13 in the 85,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+FA	T-917		Who made an attack against planet 1 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-917		Who made an attack against planet 2 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 85,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+FA	T-917		Who made an attack against planet 9 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-917		Who made an attack against planet 4 in the 100,83 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-917		Who made an attack against planet 12 in the 100,83 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+EA	T-917		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 2 in the 85,5 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+FA	T-917		Who made an attack against planet 13 in the 100,83 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-917		Who made an attack against planet 1 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-916		kratom made an attack against planet 12 in the 66,7 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-916		kratom made an attack against planet 6 in the 68,10 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-916		The forces of kratom took planet 1 in the 65,88 system from Bill_Cosby (6362).
+FA	T-916		kratom made an attack against planet 2 in the 65,88 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-916		The forces of kratom took planet 1 in the 95,83 system from Bill_Cosby (6362).
+SA	T-916		The forces of kratom took planet 1 in the 80,2 system from Bill_Cosby (6362).
+SA	T-916		The forces of kratom took planet 12 in the 98,4 system from Bill_Cosby (6362).
+SA	T-916		The forces of kratom took planet 9 in the 98,4 system from Bill_Cosby (6362).
+SA	T-916		The forces of kratom took planet 11 in the 98,4 system from OscarTheGrouch (6362).
+FA	T-916		kratom made an attack against planet 10 in the 68,10 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-916		The forces of kratom took planet 13 in the 88,89 system from Bill_Cosby (6362).
+FA	T-916		kratom made an attack against planet 6 in the 93,6 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+EA	T-915		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 12 in the 87,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-915		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 11 in the 87,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-915		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 9 in the 87,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-915		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 6 in the 87,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-915		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 7 in the 87,91 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+A	T-915		In the name of family cooperation Who has sent a shipment of 84041424 Cash 10853750 Food 961135 Iron 102097 Octarine 635594 Endurium to TIF.
+A	T-915		In the name of family cooperation TIF has sent a shipment of 99021568 Cash to Who.
+A	T-915		In the name of family cooperation Who has sent a shipment of 14000000 Food to royal victorin.
+A	T-915		In the name of family cooperation Who has sent a shipment of 80000000 Food to TIF.
+FA	T-915		Who made an attack against planet 12 in the 85,5 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-915		Who made an attack against planet 13 in the 100,83 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+FA	T-915		Who made an attack against planet 9 in the 100,83 system owned by Justin_Bieber (6362), but the planet's defense was too strong.
+FA	T-915		Who made an attack against planet 12 in the 100,83 system owned by Silvio_Berlusconi (6362), but the planet's defense was too strong.
+E	T-914		Who explored planet 12 in the 68,9 system.
+E	T-914		Who explored planet 7 in the 68,9 system.
+E	T-914		Who explored planet 11 in the 85,5 system.
+FA	T-914		kratom made an attack against planet 1 in the 87,91 system owned by OscarTheGrouch (6362), but the planet's defense was too strong.
+FA	T-914		kratom made an attack against planet 3 in the 85,82 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-914		The forces of kratom took planet 1 in the 76,14 system from Bill_Cosby (6362).
+SA	T-914		The forces of kratom took planet 4 in the 76,14 system from Bill_Cosby (6362).
+SA	T-914		The forces of kratom took planet 4 in the 87,11 system from Bill_Cosby (6362).
+SA	T-914		The forces of kratom took planet 1 in the 87,11 system from Justin_Bieber (6362).
+FA	T-914		kratom made an attack against planet 3 in the 93,6 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+SA	T-914		The forces of kratom took planet 4 in the 81,85 system from OscarTheGrouch (6362).
+SA	T-914		The forces of kratom took planet 3 in the 81,85 system from OscarTheGrouch (6362).
+A	T-914		In the name of family cooperation Biscuit has sent a shipment of 1235807 Iron 102315 Octarine 365887 Endurium to royal victorin.
+A	T-914		In the name of family cooperation Biscuit has sent a shipment of 41116599 Food to TIF.
+SA	T-914		The forces of kratom took planet 3 in the 80,2 system from Vladimir_Putin (6362).
+EA	T-914		An overwhelming force from Vladimir_Putin, family 6362 attacked Who's planet 2 in the 100,83 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Vladimir_Putin, family 6362 attacked Who's planet 1 in the 100,83 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 13 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 11 in the 85,5 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 12 in the 68,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 13 in the 68,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 8 in the 68,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 12 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 7 in the 68,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 8 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 1 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 4 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 3 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 6 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 10 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		After a brave fight our family member TIF had to flee the planet planet 9 in the 88,87 system which was attacked by Rivan of family 6362.
+EA	T-914		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 6 in the 68,9 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-913		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 13 in the 74,7 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-913		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 12 in the 74,7 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-913		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 9 in the 74,7 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-913		Our family member Who managed to defend planet 1 in the 74,7 system against an attack by forces from Bill_Cosby, family 6362.
+EA	T-913		After a brave fight our family member TIF had to flee the planet planet 5 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-913		After a brave fight our family member TIF had to flee the planet planet 4 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		Our family member Who managed to defend planet 13 in the 99,3 system against an attack by forces from Bill_Cosby, family 6362.
+A	T-912		In the name of family cooperation royal victorin has sent a shipment of 11147583 Iron to Blood Eagle.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 9 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 7 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 6 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 8 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 3 in the 99,3 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 13 in the 93,6 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 11 in the 93,6 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 7 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 13 in the 88,87 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 2 in the 81,3 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 3 in the 67,6 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 12 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 6 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 2 in the 88,87 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 8 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 5 in the 88,87 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 2 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 9 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 11 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 13 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-912		After a brave fight our family member TIF had to flee the planet planet 3 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+FA	T-911		kratom made an attack against planet 2 in the 87,91 system owned by OscarTheGrouch (6362), but the planet's defense was too strong.
+FA	T-911		kratom made an attack against planet 12 in the 78,8 system owned by Vladimir_Putin (6362), but the planet's defense was too strong.
+EA	T-910		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 7 in the 88,89 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-910		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 4 in the 88,89 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-910		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 88,89 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-910		Our family member Who managed to defend planet 1 in the 100,83 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-910		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 9 in the 93,6 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-910		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 4 in the 93,6 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 1 in the 81,3 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 1 in the 79,1 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 10 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 12 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 13 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 8 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 1 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 2 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 6 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 7 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 3 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 11 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 5 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-910		After a brave fight our family member TIF had to flee the planet planet 9 in the 73,9 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-909		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 4 in the 73,11 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-909		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 12 in the 93,6 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-909		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 6 in the 93,6 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-909		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 12 in the 76,14 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		After a brave fight our family member TIF had to flee the planet planet 10 in the 81,85 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		After a brave fight our family member TIF had to flee the planet planet 4 in the 81,85 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		After a brave fight our family member TIF had to flee the planet planet 3 in the 81,85 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 8 in the 88,89 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 13 in the 88,89 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		Our family member Biscuit managed to defend planet 2 in the 80,2 system against an attack by forces from Bill_Cosby, family 6362.
+EA	T-908		Our family member Biscuit managed to defend planet 2 in the 80,2 system against an attack by forces from Bill_Cosby, family 6362.
+EA	T-908		After a brave fight our family member Who had to flee the planet planet 11 in the 98,4 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		After a brave fight our family member TIF had to flee the planet planet 10 in the 68,10 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-908		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 1 in the 93,6 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		After a brave fight our family member TIF had to flee the planet planet 6 in the 68,10 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-908		After a brave fight our family member Who had to flee the planet planet 12 in the 98,4 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		An overwhelming force from Justin_Bieber, family 6362 attacked royal victorin's planet 10 in the 93,6 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		Our family member royal victorin managed to defend planet 10 in the 93,6 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-908		After a brave fight our family member Who had to flee the planet planet 9 in the 98,4 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-908		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 1 in the 80,2 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-908		Our family member Who managed to defend planet 9 in the 98,4 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-908		Our family member Biscuit managed to defend planet 1 in the 80,2 system against an attack by forces from Bill_Cosby, family 6362.
+EA	T-907		Our family member royal victorin managed to defend planet 6 in the 87,91 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-907		After a brave fight our family member royal victorin had to flee the planet planet 2 in the 87,91 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		After a brave fight our family member Biscuit had to flee the planet planet 1 in the 87,91 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 4 in the 76,14 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Justin_Bieber, family 6362 attacked Who's planet 1 in the 76,14 system. The defenders for Who managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 4 in the 87,11 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Justin_Bieber, family 6362 attacked Biscuit's planet 1 in the 87,11 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Justin_Bieber, family 6362 attacked TIF's planet 1 in the 65,88 system. The defenders for TIF managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 7 in the 65,88 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 2 in the 65,88 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-907		Our family member TIF managed to defend planet 1 in the 65,88 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-907		Our family member TIF managed to defend planet 7 in the 65,88 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 85,82 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		Our family member TIF managed to defend planet 2 in the 65,88 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 4 in the 100,83 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 93,6 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 80,2 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 12 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 7 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 5 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 1 in the 66,7 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 6 in the 73,11 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 73,11 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 1 in the 73,11 system which was attacked by Vladimir_Putin of family 6362.
+EA	T-907		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 95,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 1 in the 95,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 1 in the 97,82 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 9 in the 97,82 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 3 in the 65,9 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		Our family member TIF managed to defend planet 1 in the 65,9 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 4 in the 65,9 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 13 in the 65,8 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 10 in the 65,8 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-907		Our family member Biscuit managed to defend planet 1 in the 87,11 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-907		After a brave fight our family member TIF had to flee the planet planet 5 in the 65,9 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 13 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 12 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 12 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 6 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 10 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 3 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 13 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 2 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 1 in the 96,83 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 8 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 7 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 6 in the 95,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		Our family member TIF managed to defend planet 1 in the 96,83 system against an attack by forces from OscarTheGrouch, family 6362.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 13 in the 93,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 7 in the 93,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 6 in the 93,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 5 in the 93,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 93,83 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 9 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 11 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 10 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 12 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 8 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 1 in the 93,83 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked Biscuit's planet 4 in the 94,3 system. The defenders for Biscuit managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 12 in the 94,3 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+A	T-906		In the name of family cooperation TIF has sent a shipment of 47048234 Cash to kratom.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 3 in the 76,14 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		An overwhelming force from Silvio_Berlusconi, family 6362 attacked royal victorin's planet 9 in the 77,14 system. The defenders for royal victorin managed to set off a nuclear blast which made the planet uninhabitable.
+EA	T-906		Our family member TIF managed to defend planet 3 in the 93,6 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 4 in the 98,4 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 3 in the 98,4 system which was attacked by OscarTheGrouch of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 5 in the 94,3 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 4 in the 77,14 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member TIF had to flee the planet planet 3 in the 82,11 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		Our family member TIF managed to defend planet 3 in the 82,11 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 78,8 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 8 in the 68,10 system which was attacked by OscarTheGrouch of family 6362.
+A	T-906		In the name of family cooperation Biscuit has sent a shipment of 4309527 Iron 431628 Octarine 1329656 Endurium to Blood Eagle.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 87,11 system which was attacked by Silvio_Berlusconi of family 6362.
+A	T-906		In the name of family cooperation Biscuit has sent a shipment of 131673442 Food to TIF.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 99,5 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 11 in the 99,5 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 100,10 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		Our family member Who managed to defend planet 1 in the 76,14 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-906		Our family member Who managed to defend planet 1 in the 76,14 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 100,10 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 9 in the 72,13 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 3 in the 87,11 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 72,13 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 9 in the 82,11 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 71,21 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 80,14 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 5 in the 71,21 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 100,34 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 80,36 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 100,34 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 6 in the 100,34 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 11 in the 99,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 99,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 100,18 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 10 in the 99,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 9 in the 99,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 9 in the 99,32 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 12 in the 84,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 12 in the 84,32 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 8 in the 76,18 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 4 in the 84,32 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 4 in the 84,32 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 12 in the 84,32 system against an attack by forces from Vladimir_Putin, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 11 in the 78,34 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 11 in the 78,34 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 70,16 system which was attacked by Silvio_Berlusconi of family 6362.
+EA	T-906		After a brave fight our family member Blood Eagle had to flee the planet planet 13 in the 82,33 system which was attacked by Justin_Bieber of family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 2 in the 70,16 system against an attack by forces from Silvio_Berlusconi, family 6362.
+EA	T-906		Our family member Blood Eagle managed to defend planet 13 in the 82,33 system against an attack by forces from Justin_Bieber, family 6362.
+A	T-903		In the name of family cooperation TIF has sent a shipment of 444235038 Cash to Blood Eagle.
+A	T-903		In the name of family cooperation TIF has sent a shipment of 1000000000 Cash to Blood Eagle.
+A	T-902		In the name of family cooperation TIF has sent a shipment of 281815497 Cash 1926838 Iron 452652 Octarine 814496 Endurium to Blood Eagle.
+A	T-902		In the name of family cooperation Who has sent a shipment of 70007814 Food 1926838 Iron 452652 Octarine 814496 Endurium to TIF.
+A	T-902		In the name of family cooperation Who has sent a shipment of 10000000 Food to royal victorin.
+A	T-893		In the name of family cooperation Who has sent a shipment of 27067211 Food to royal victorin.
+A	T-891		In the name of family cooperation TIF has sent a shipment of 100000000 Cash 1448612 Iron 191069 Octarine 612341 Endurium to kratom.
+A	T-890		In the name of family cooperation Who has sent a shipment of 79958026 Food 1455891 Iron 192029 Octarine 615418 Endurium to TIF.
+A	T-890		In the name of family cooperation TIF has sent a shipment of 124063654 Cash 25055150 Iron 5415992 Octarine 10350728 Endurium to Blood Eagle.
+A	T-883		In the name of family cooperation Blood Eagle has sent a shipment of 2494288 Iron to TIF.
+A	T-882		In the name of family cooperation TIF has sent a shipment of 20000000 Cash to Blood Eagle.
+A	T-881		In the name of family cooperation Who has sent a shipment of 97143256 Food 1926838 Iron 452652 Octarine 814496 Endurium to TIF.
+A	T-878		In the name of family cooperation Biscuit has sent a shipment of 1286608 Iron 128860 Octarine 396964 Endurium to royal victorin.
+A	T-878		In the name of family cooperation Biscuit has sent a shipment of 38598843 Food to TIF.
+Universal News
+OscarTheGrouch took 73,73:4 from KnightsOfOld.
+Justin_Bieber took 85,69:1 from Dr_Julius_No.
+Vladimir_Putin took 85,69:8 from Dr_Julius_No.
+Vladimir_Putin took 85,69:13 from Dr_Julius_No.
+Justin_Bieber took 86,69:10 from KnightsOfOld.
+Family Topics
+ 	Welcome to the Family #6370 forums!
+ 	Retakes and what not
+ 	68
+ 	Planet's for attakers (core defence)
+ 	61
+Community Topics
+ 	62 and 64 vs 60
+ 	As you wish. 63 v 67
+ 	Imperial Conflict on rateandtalk.com
+ 	69 vs 71
+ 	Swagga's ACTIVE Drafting: MW68
