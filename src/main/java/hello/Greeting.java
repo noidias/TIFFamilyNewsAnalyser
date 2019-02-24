@@ -4,14 +4,17 @@ import analyserApplication.FamilyNewsAnalyser;
 
 public class Greeting {
 
-    private long id;
+    private String id;
     private String content;
 
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(String id) {
+    	FamilyNewsAnalyser.runFamNewsAnalyser(id);
+    	
+    	
         this.id = id;
     }
 
@@ -21,7 +24,7 @@ public class Greeting {
 
     public void setContent(String content) {
         
-    	content = " XXXYYY ";
+    	//content = " XXXYYY ";
     	FamilyNewsAnalyser.runFamNewsAnalyser(content);
     	this.content = content;
     }

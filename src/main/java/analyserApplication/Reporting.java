@@ -24,10 +24,12 @@ public class Reporting {
 	
 	}
 	
-	public static void printOpenRetakesClean(ArrayList<PlanetNews> retakesArray) {
-	System.out.println("--------------------\r\n" + 
+	public static void printOpenRetakesClean(ArrayList<PlanetNews> retakesArray, String inReport) {
+		String outReport = appendPrintString(inReport,"--------------------\r\n-   OPEN RETAKES Clean List   -\r\n--------------------");
+		/*
+		System.out.println("--------------------\r\n" + 
 			"-   OPEN RETAKES Clean List   -\r\n" + 
-			"--------------------");
+			"--------------------");*/
 	int i = 0;
 	for (PlanetNews retake : retakesArray) {
 		System.out.println(retake.getPlanetCoords()+" ");
@@ -159,6 +161,11 @@ public class Reporting {
 		}
 	}
 	
+	public static String appendPrintString(String text1, String text2) {
+		System.out.println(text2);
+		String combinedText = text1 + text2;
+		return combinedText;
+	}
 	
 
 	

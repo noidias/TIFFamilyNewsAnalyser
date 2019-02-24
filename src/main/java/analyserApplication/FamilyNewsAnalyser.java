@@ -37,6 +37,7 @@ public class FamilyNewsAnalyser {
 	
 		
 	public static void reportPlanetSections(String famNews) {
+		String report = "";
 		ArrayList<PlanetNews> captureArray = new ArrayList<PlanetNews>();
 		ArrayList<PlanetNews> blownSaArray = new ArrayList<PlanetNews>();
 		ArrayList<PlanetNews> blownEaArray = new ArrayList<PlanetNews>();
@@ -90,7 +91,7 @@ public class FamilyNewsAnalyser {
 		Reporting.printSummaryPlanets(missingArray, "missing");
 		Reporting.printOpenRetakes(retakesArray);
 		
-		Reporting.printOpenRetakesClean(retakesArray);
+		Reporting.printOpenRetakesClean(retakesArray, report);
 		}
 	
 
@@ -132,8 +133,12 @@ public class FamilyNewsAnalyser {
 	
 	public static String addLineNumber(String famNews) {		
 		int count = 1;
-		String[] lines = famNews.split("T-");
-        String t = "";
+		String[] lines = famNews.replace('.','#').replace("\r","").replace("\n","").split("#");
+		//String[] lines = famNews.split("\r?\n");
+		
+		
+		int rows = lines.length;
+		String t = "";
         for (String line : lines) {
         	t = t + count++ +line;
         	}

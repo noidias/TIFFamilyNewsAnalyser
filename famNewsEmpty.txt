@@ -1,57 +1,8 @@
-Imperial Conflict
-  T 978   128,477,258   45,561,421   0   0   0
-ToT
- HQ
- Messages
- Map
- Family
- Family Forum
- Foreign Relations
- Military
- Planets
- Market
- Rankings
- Bookmarks
- Tools
- Empire Settings
- Switch Empire
 
-Family #
- 
-x,y or x,y:num
- Store
- Donate
- Forum
- Family Forum
- Chat
- Rules
- Guide
- Contact
-Your Family
-Overview
-News
-Council
-Vote
-Aid
-Defense
-Chat
-The Family News: Ticks 878-978
-empire
-type
-time desc
-time asc
-EA	T-969		After a brave fight our family member Blood Eagle had to flee the planet planet 2 in the 55,20 system which was attacked by Titanias_anglesmith of family 6361.
-Vladimir_Putin took 85,69:13 from Dr_Julius_No.
-Justin_Bieber took 86,69:10 from KnightsOfOld.
-Family Topics
- 	Welcome to the Family #6370 forums!
- 	Retakes and what not
- 	68
- 	Planet's for attakers (core defence)
- 	61
-Community Topics
- 	62 and 64 vs 60
- 	As you wish. 63 v 67
- 	Imperial Conflict on rateandtalk.com
- 	69 vs 71
- 	Swagga's ACTIVE Drafting: MW68
+E	T-50		hoit explored planet 12 in the 51,91 system.
+E	T-50		hoit explored planet 5 in the 51,90 system.
+E	T-50		hoit explored planet 4 in the 51,90 system.
+E	T-50		hoit explored planet 1 in the 51,91 system.
+E	T-50		hoit explored planet 5 in the 51,91 system.
+E	T-50		hoit explored planet 7 in the 51,91 system.
+E	T-50		hoit explored planet 8 in the 51,91 system.

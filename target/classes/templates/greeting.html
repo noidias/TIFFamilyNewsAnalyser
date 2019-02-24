@@ -7,7 +7,7 @@
 <body>
 	<h1>Form</h1>
     <form action="#" th:action="@{/greeting}" th:object="${greeting}" method="post">
-    	<p>Id: <input type="text" th:field="*{id}" /></p>
+    	<p>Id: <input type="utext" th:field="*{id}" /></p>
         <p>Message: <textarea th:field="*{content}">...</textarea>
         <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
     </form>
