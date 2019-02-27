@@ -24,32 +24,38 @@ public class Reporting {
 	
 	}
 	
-	public static void printOpenRetakesClean(ArrayList<PlanetNews> retakesArray, String inReport) {
-		String outReport = appendPrintString(inReport,"--------------------\r\n-   OPEN RETAKES Clean List   -\r\n--------------------");
+	public static String printOpenRetakesClean(ArrayList<PlanetNews> retakesArray) {
+		String outReport = "";
+		outReport = appendString(outReport,"--------------------<br>-   OPEN RETAKES Clean List   -<br>--------------------");
 		/*
 		System.out.println("--------------------\r\n" + 
 			"-   OPEN RETAKES Clean List   -\r\n" + 
 			"--------------------");*/
 	int i = 0;
 	for (PlanetNews retake : retakesArray) {
-		System.out.println(retake.getPlanetCoords()+" ");
+		outReport =  appendString(outReport, "<br>"+ retake.getPlanetCoords());
+		//System.out.println(retake.getPlanetCoords()+" ");
 		i++;
-		//if ( (i % 6) == 0 ) {
-		    //System.out.println("");
-		//System.out.println(retake.getPlanetCoords()+" (#"+retake.getEnemyFam()+", "+retake.getTurnOccurred()+" week(s) ago)");
-		//}
+
 	}
-	System.out.println("");
-	System.out.println("-------------------");
-	System.out.println(retakesArray.size() + " planet(s) missing in action");		
+	outReport =  appendString(outReport, "<br>-------------------<br> "+retakesArray.size() + " planet(s) missing in action");
 	
+	//System.out.println("");
+	//System.out.println("-------------------");
+	//System.out.println(retakesArray.size() + " planet(s) missing in action");	
+	
+	return outReport;
 	}
 		
-	public static void printSummaryPlanets(ArrayList<PlanetNews> news, String text) {		
-		System.out.println("-------------------\r\n" + "-    "+text+"    -\r\n" + "-------------------");
-		countAndPrintFrequenciesPlanets(news, " planet(s) "+text);
-		System.out.println("-------------------");
-		System.out.println(news.size() + " planet(s) "+text+".");
+	public static String printSummaryPlanets(ArrayList<PlanetNews> news, String text) {		
+		String outReport = "";
+		outReport = appendString(outReport,"--------------------<br>-   "+text+"   -<br>--------------------");
+		//System.out.println("-------------------\r\n" + "-    "+text+"    -\r\n" + "-------------------");
+		outReport = appendString(outReport,(countAndPrintFrequenciesPlanets(news, " planet(s) "+text)));
+		outReport =  appendString(outReport, "<br>-------------------<br> "+news.size() + " planet(s) "+text+".<br>");
+		//System.out.println("-------------------");
+		//System.out.println(news.size() + " planet(s) "+text+".");
+		return outReport;
 	}
 	
 	public static void printSummaryAidSent(ArrayList<AidNews> news, String text) {		
@@ -140,7 +146,11 @@ public class Reporting {
 		return retakesArray;
 	}	
 
-	public static void countAndPrintFrequenciesPlanets(ArrayList<PlanetNews> newsArray, String text) {
+	public static String countAndPrintFrequenciesPlanets(ArrayList<PlanetNews> newsArray, String text) {
+		String outReport = "";
+		outReport = appendString(outReport,"--------------------<br>-   "+text+"   -<br>--------------------");
+		
+		
 		Map<String, Integer> hm = new HashMap<String, Integer>();
 
 		for (PlanetNews i : newsArray) {
@@ -149,8 +159,10 @@ public class Reporting {
 		}
 		// displaying the occurrence of elements in the arraylist
 		for (Map.Entry<String, Integer> val : hm.entrySet()) {
-			System.out.println(val.getValue() + " " + text + " " + "#" + val.getKey());
+			outReport = appendString(outReport,"<br>"+val.getValue() + " " + text + " " + "#" + val.getKey());
+			//System.out.println(val.getValue() + " " + text + " " + "#" + val.getKey());
 		}
+		return outReport;
 	}
 	
 	public static void printArray(ArrayList<PlanetNews> newsArray) {
@@ -161,8 +173,8 @@ public class Reporting {
 		}
 	}
 	
-	public static String appendPrintString(String text1, String text2) {
-		System.out.println(text2);
+	public static String appendString(String text1, String text2) {
+		//System.out.println(text2);
 		String combinedText = text1 + text2;
 		return combinedText;
 	}

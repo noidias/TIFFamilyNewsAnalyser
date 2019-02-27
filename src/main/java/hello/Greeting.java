@@ -25,8 +25,8 @@ public class Greeting {
     public void setContent(String content) {
         
     	//content = " XXXYYY ";
-    	FamilyNewsAnalyser.runFamNewsAnalyser(content);
-    	this.content = content;
+    	String contentReport = FamilyNewsAnalyser.runFamNewsAnalyser(content);
+    	this.content = contentReport;
     }
 
 }

@@ -9,8 +9,8 @@ public class ExtractData {
 		ArrayList<PlanetNews> newsArray = new ArrayList<PlanetNews>();
 		Matcher news = planetPattern.matcher(famNews);
 		while (news.find()) {
-			int line = Integer.parseInt(news.group(1));
-			String event = news.group(2);
+			int line = Integer.parseInt(news.group(2));
+			String event = news.group(1);
 			int turn = Integer.parseInt(news.group(3));
 			String player = news.group(4);
 			int planetNo = Integer.parseInt(news.group(5));
@@ -29,8 +29,8 @@ public class ExtractData {
 		ArrayList<AidNews> newsArray = new ArrayList<AidNews>();
 		Matcher news = aidPattern.matcher(famNews);
 		while (news.find()) {
-			int line = getIntValue(news, 1);
-			String event = getStringValue(news, 2);
+			int line = getIntValue(news, 2);
+			String event = getStringValue(news, 1);
 			int turn = getIntValue(news, 3);
 			String player = getStringValue(news, 4);
 			int amount = getIntValue(news, 5);
@@ -46,8 +46,8 @@ public class ExtractData {
 		ArrayList<AidNews> newsArray = new ArrayList<AidNews>();
 		Matcher news = aidPattern.matcher(famNews);
 		while (news.find()) {
-			int line = getIntValue(news, 1);
-			String event = getStringValue(news, 2);
+			int line = getIntValue(news, 2);
+			String event = getStringValue(news, 1);
 			int turn = getIntValue(news, 3);
 			String player = getStringValue(news, 4);
 			int amount = getIntValue(news, 5);
@@ -67,8 +67,8 @@ public class ExtractData {
 		ArrayList<AidNews> newsArray = new ArrayList<AidNews>();
 		Matcher news = aidPattern.matcher(famNews);
 		while (news.find()) {
-			int line = getIntValue(news, 1);
-			String event = getStringValue(news, 2);
+			int line = getIntValue(news, 2);
+			String event = getStringValue(news, 1);
 			int turn = getIntValue(news, 3);
 			String player = getStringValue(news, 4);
 			int amount = getIntValue(news, 5);
@@ -92,8 +92,8 @@ public class ExtractData {
 		ArrayList<AidNews> newsArray = new ArrayList<AidNews>();
 		Matcher news = aidPattern.matcher(famNews);
 		while (news.find()) {
-			int line = getIntValue(news, 1);
-			String event = getStringValue(news, 2);
+			int line = getIntValue(news, 2);
+			String event = getStringValue(news, 1);
 			int turn = getIntValue(news, 3);
 			String player = getStringValue(news, 4);
 			int amount = getIntValue(news, 5);
@@ -121,8 +121,8 @@ public class ExtractData {
 		ArrayList<AidNews> newsArray = new ArrayList<AidNews>();
 		Matcher news = aidPattern.matcher(famNews);
 		while (news.find()) {
-			int line = getIntValue(news, 1);
-			String event = getStringValue(news, 2);
+			int line = getIntValue(news, 2);
+			String event = getStringValue(news, 1);
 			int turn = getIntValue(news, 3);
 			String player = getStringValue(news, 4);
 			int amount = getIntValue(news, 5);
@@ -165,8 +165,8 @@ public class ExtractData {
 		ArrayList<PlanetNews> newsArray = new ArrayList<PlanetNews>();
 		Matcher news = planetPattern.matcher(famNews);
 		while (news.find()) {
-			int line = Integer.parseInt(news.group(1));
-			String event = news.group(2);
+			int line = Integer.parseInt(news.group(2));
+			String event = news.group(1);
 			int turn = Integer.parseInt(news.group(3));
 			String player = news.group(4);
 			int planetNo = Integer.parseInt(news.group(7));
@@ -186,8 +186,8 @@ public class ExtractData {
 		ArrayList<PlanetNews> newsArray = new ArrayList<PlanetNews>();
 		Matcher news = planetPattern.matcher(famNews);
 		while (news.find()) {
-			int line = Integer.parseInt(news.group(1));
-			String event = news.group(2);
+			int line = Integer.parseInt(news.group(2));
+			String event = news.group(1);
 			int turn = Integer.parseInt(news.group(3));
 			String player = news.group(10);
 			int planetNo = Integer.parseInt(news.group(7));

@@ -5,10 +5,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-	<h1>Form</h1>
+	<h1>Open the family news page, hit CTRL+A on it, CTRL+C and paste it into the field below.</h1>
     <form action="#" th:action="@{/greeting}" th:object="${greeting}" method="post">
-    	<p>Id: <input type="utext" th:field="*{id}" /></p>
-        <p>Message: <textarea th:field="*{content}">...</textarea>
+        <p><textarea rows = "50" cols = "100" th:field="*{content}">...</textarea>
         <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
     </form>
 </body>
