@@ -22,17 +22,15 @@ public class FamilyNewsAnalyser {
 	public static void main(String[] args) throws IOException {
 		String famNews = readFileLineByLine("famNews5.txt");
 		runFamNewsAnalyser(famNews);
-		
-		//famNews = addLineNumber(famNews);
-		//reportPlanetSections();
-		//reportAidSections();
 	}
 	
 	public static String runFamNewsAnalyser(String famNews) {
 		
 		famNews = addLineNumber(famNews);
 		String report = reportPlanetSections(famNews);
-		reportAidSections(famNews);
+		String reportAid =reportAidSections(famNews);
+		
+		report = Reporting.appendString(report,reportAid);
 		return report;
 	}
 	
@@ -125,7 +123,8 @@ public class FamilyNewsAnalyser {
 		}
 	
 
-	public static void reportAidSections(String famNews) {
+	public static String reportAidSections(String famNews) {
+		String report = "";
 		ArrayList<AidNews> aidArray = new ArrayList<AidNews>();
 		
 		Pattern aidPattern1 = Pattern.compile("(?s)"+eventTick+"In the name of family cooperation "+playerNameRegex+" has sent a shipment of (\\d+) (\\w+) to "+playerNameRegex+".");
@@ -139,8 +138,16 @@ public class FamilyNewsAnalyser {
 		aidArray.addAll(ExtractData.extractAid4(aidPattern4, famNews));
 		aidArray.addAll(ExtractData.extractAid5(aidPattern5, famNews));
 		
-		Reporting.printSummaryAidSent(aidArray, "aid");
-		Reporting.printSummaryAidReceived(aidArray, "aid");
+		String aidSentReport = Reporting.printSummaryAidSent(aidArray, "aid");
+		report = Reporting.appendString(report,aidSentReport);
+		System.out.println(aidSentReport);
+		
+		
+		String aidReceivedReport = Reporting.printSummaryAidReceived(aidArray, "aid");
+		report = Reporting.appendString(report,aidReceivedReport);
+		System.out.println(aidReceivedReport);
+		
+		return report;
 	}
 
 
