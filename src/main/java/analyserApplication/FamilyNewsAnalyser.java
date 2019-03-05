@@ -63,22 +63,38 @@ public class FamilyNewsAnalyser {
 		
 		//Capture
 		captureArray = ExtractData.extractPlanetData(capturePattern, famNews);
-		Reporting.printSummaryPlanets(captureArray, "Captures");
+		String captureReport = Reporting.printSummaryPlanets(captureArray, "Captures");
+		System.out.println(captureReport);
+		report = Reporting.appendString(report,captureReport);
+		
 		
 		//blow ups Attacks
 		blownSaArray =ExtractData.extractDataBlownSA(blownSAPattern, famNews);
-		Reporting.printSummaryPlanets(blownSaArray, "blow ups");
+		String blownSaReport = Reporting.printSummaryPlanets(blownSaArray, "blow ups");
+		System.out.println(blownSaReport);
+		report = Reporting.appendString(report,blownSaReport);
 	
 		//
 		defeatsArray = ExtractData.extractPlanetData(defeatPattern, famNews);
-		Reporting.printSummaryPlanets(defeatsArray, "Defeats");
+		String defeatsReport = Reporting.printSummaryPlanets(defeatsArray, "Defeats");
+		System.out.println(defeatsReport);
+		report = Reporting.appendString(report,defeatsReport);
+		
+		
 		
 		//blow ups defeats
 		blownEaArray =ExtractData.extractDataBlownEA(blownEAPattern, famNews);
 		lostBlownArray = Reporting.findOutstandingBlowPLanets(captureArray, blownEaArray, exploreArray);
+		String lostBlownReport = Reporting.printSummaryPlanets(blownEaArray, "blow ups lost");
+		System.out.println(lostBlownReport);
+		report = Reporting.appendString(report,lostBlownReport);
 		
-		Reporting.printSummaryPlanets(blownEaArray, "blow ups lost");
-		Reporting.printArray(lostBlownArray);
+		
+		String lostBlownplanetsReport = Reporting.printArray(lostBlownArray);
+		System.out.println(lostBlownplanetsReport);
+		report = Reporting.appendString(report,lostBlownplanetsReport);
+		
+		
 		if (lostBlownArray != null)
 			missingArray.addAll( lostBlownArray );
 		
@@ -92,8 +108,13 @@ public class FamilyNewsAnalyser {
 			missingArray.addAll( retakesArray );
 		
 		
-		Reporting.printSummaryPlanets(missingArray, "missing");
-		Reporting.printOpenRetakes(retakesArray);
+		String missingReport = Reporting.printSummaryPlanets(missingArray, "missing");
+		System.out.println(missingReport);
+		report = Reporting.appendString(report,missingReport);
+		
+		String openRetakesReport =Reporting.printOpenRetakes(retakesArray);
+		System.out.println(openRetakesReport);
+		report = Reporting.appendString(report,openRetakesReport);
 		
 		String cleanRetakesReport = Reporting.printOpenRetakesClean(retakesArray);
 		System.out.println(cleanRetakesReport);

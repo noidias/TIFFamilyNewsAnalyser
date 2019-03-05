@@ -11,17 +11,17 @@ import static java.util.stream.Collectors.*;
 
 public class Reporting {
 
-	public static void printOpenRetakes(ArrayList<PlanetNews> retakesArray) {
-	System.out.println("--------------------\r\n" + 
-			"-   OPEN RETAKES   -\r\n" + 
-			"--------------------");
+	public static String printOpenRetakes(ArrayList<PlanetNews> retakesArray) {
+		String outReport = "";
+		outReport = appendString(outReport,"--------------------<br>-   OPEN RETAKES -<br>--------------------");
 	for (PlanetNews retake : retakesArray) {
-		System.out.println(retake.getPlanetCoords()+" (#"+retake.getEnemyFam()+", lost Tick "+retake.getTurnOccurred()+")");
+		outReport =  appendString(outReport, "<br>"+ retake.getPlanetCoords()+" (#"+retake.getEnemyFam()+", lost Tick "+retake.getTurnOccurred()+")");
+		//System.out.println(retake.getPlanetCoords()+" (#"+retake.getEnemyFam()+", lost Tick "+retake.getTurnOccurred()+")");
 		//System.out.println(retake.getPlanetCoords()+" (#"+retake.getEnemyFam()+", "+retake.getTurnOccurred()+" week(s) ago)");
 		}
-	System.out.println("-------------------");
-	System.out.println(retakesArray.size() + " planet(s) missing in action");		
-	
+	//System.out.println("-------------------");
+	//System.out.println(retakesArray.size() + " planet(s) missing in action");		
+	return outReport;
 	}
 	
 	public static String printOpenRetakesClean(ArrayList<PlanetNews> retakesArray) {
@@ -165,12 +165,16 @@ public class Reporting {
 		return outReport;
 	}
 	
-	public static void printArray(ArrayList<PlanetNews> newsArray) {
-		System.out.println("-------------------");
-		System.out.println("List of destroyed planets, not re-explored or retaken:");
+	public static String printArray(ArrayList<PlanetNews> newsArray) {
+		String outReport = "";
+		outReport = appendString(outReport,"--------------------<br>- List of destroyed planets, not re-explored or retaken: ");
+		//System.out.println("-------------------");
+		//System.out.println("List of destroyed planets, not re-explored or retaken:");
 		for (PlanetNews planetNews : newsArray) {
-			System.out.println(planetNews.getPlanetCoords());
+			outReport = appendString(outReport,"<br>"+planetNews.getPlanetCoords());
+			//System.out.println(planetNews.getPlanetCoords());
 		}
+		return outReport;
 	}
 	
 	public static String appendString(String text1, String text2) {
