@@ -20,7 +20,7 @@ public class FamilyNewsAnalyser {
 	static String eventTick = "(\\w+)[\\s]+"+lineRegx+"T-(\\d{1,4})[\\s]+";
 	
 	public static void main(String[] args) throws IOException {
-		String famNews = readFileLineByLine("famNews5.txt");
+		String famNews = readFileLineByLine("famNews1.txt");
 		runFamNewsAnalyser(famNews);
 	}
 	
@@ -58,32 +58,34 @@ public class FamilyNewsAnalyser {
 		String exploreReport = Reporting.printSummaryPlanets(exploreArray, "Explored");
 		System.out.println(exploreReport);
 		report = Reporting.appendString(report,exploreReport);
+		String exploreList = Reporting.printArrayExplored(exploreArray);	
+		report = Reporting.appendString(report,exploreList);
+		
+		
 		
 		//Capture
 		captureArray = ExtractData.extractPlanetData(capturePattern, famNews);
 		String captureReport = Reporting.printSummaryPlanets(captureArray, "Captures");
 		System.out.println(captureReport);
 		report = Reporting.appendString(report,captureReport);
+		String capList = Reporting.printArrayExplored(captureArray);	
+		report = Reporting.appendString(report,capList);
 		
-		
-		//blow ups Attacks
-		blownSaArray =ExtractData.extractDataBlownSA(blownSAPattern, famNews);
-		String blownSaReport = Reporting.printSummaryPlanets(blownSaArray, "blow ups");
-		System.out.println(blownSaReport);
-		report = Reporting.appendString(report,blownSaReport);
-	
-		//
 		defeatsArray = ExtractData.extractPlanetData(defeatPattern, famNews);
 		String defeatsReport = Reporting.printSummaryPlanets(defeatsArray, "Defeats");
 		System.out.println(defeatsReport);
 		report = Reporting.appendString(report,defeatsReport);
-		
-		
-		
+	
+		//blow ups Attacks
+		blownSaArray =ExtractData.extractDataBlownSA(blownSAPattern, famNews);
+		String blownSaReport = Reporting.printSummaryPlanets(blownSaArray, "blown ups by");
+		System.out.println(blownSaReport);
+		report = Reporting.appendString(report,blownSaReport);
+			
 		//blow ups defeats
 		blownEaArray =ExtractData.extractDataBlownEA(blownEAPattern, famNews);
 		lostBlownArray = Reporting.findOutstandingBlowPLanets(captureArray, blownEaArray, exploreArray);
-		String lostBlownReport = Reporting.printSummaryPlanets(blownEaArray, "blow ups lost");
+		String lostBlownReport = Reporting.printSummaryPlanets(blownEaArray, "blown ups lost");
 		System.out.println(lostBlownReport);
 		report = Reporting.appendString(report,lostBlownReport);
 		
@@ -106,7 +108,7 @@ public class FamilyNewsAnalyser {
 			missingArray.addAll( retakesArray );
 		
 		
-		String missingReport = Reporting.printSummaryPlanets(missingArray, "missing");
+		String missingReport = Reporting.printSummaryPlanets(missingArray, "Planets still missing");
 		System.out.println(missingReport);
 		report = Reporting.appendString(report,missingReport);
 		

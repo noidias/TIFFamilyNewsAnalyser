@@ -1,0 +1,581 @@
+Imperial Conflict
+  T 903   68,613,899   26,176,071   1,428   48,774   3,429
+ToT
+ HQ
+ Messages
+ Map
+ Family
+ Family Forum
+ Foreign Relations
+ Military
+ Planets
+ Market
+ Rankings
+ Bookmarks
+ Tools
+ Empire Settings
+ Switch Empire
+Family #
+ 
+x,y or x,y:num
+ Store
+ Donate
+ Forum
+ Family Forum
+ Chat
+ Rules
+ Guide
+ Contact
+Your Family
+Overview
+News
+Council
+Vote
+Aid
+Defense
+Chat
+The Family News: Ticks 803-903
+empire
+type
+time desc
+time asc
+FA	T-903		Kagar made an attack against planet 2 in the 20,89 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+FA	T-903		Kagar made an attack against planet 1 in the 43,96 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+EA	T-903		After a brave fight our family member Soul had to flee the planet planet 1 in the 3,91 system which was attacked by DonRamirez of family 6499.
+EA	T-903		After a brave fight our family member Soul had to flee the planet planet 3 in the 3,91 system which was attacked by DonRamirez of family 6499.
+EA	T-903		After a brave fight our family member Soul had to flee the planet planet 4 in the 3,91 system which was attacked by DonRamirez of family 6499.
+EA	T-903		After a brave fight our family member Soul had to flee the planet planet 7 in the 3,91 system which was attacked by DonRamirez of family 6499.
+EA	T-901		After a brave fight our family member Mentor had to flee the planet planet 10 in the 66,90 system which was attacked by Face_Less_Man of family 6492.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 10 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 6 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 13 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 4 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 3 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-900		After a brave fight our family member hoit had to flee the planet planet 1 in the 6,95 system which was attacked by DonRamirez of family 6499.
+A	T-899		In the name of family cooperation Kagar has sent a shipment of 200000 Endurium to TIF.
+A	T-899		In the name of family cooperation Soul has sent a shipment of 11200239 Cash to Mentor.
+SA	T-899		The forces of Swagga took planet 11 in the 24,86 system from Face_Less_Man (6492).
+SA	T-899		The forces of Swagga took planet 12 in the 24,86 system from Face_Less_Man (6492).
+SA	T-899		The forces of Swagga took planet 7 in the 24,86 system from Face_Less_Man (6492).
+SA	T-899		The forces of Swagga took planet 8 in the 24,86 system from Face_Less_Man (6492).
+SA	T-899		The forces of Swagga took planet 9 in the 24,86 system from Face_Less_Man (6492).
+SA	T-899		The forces of Mentor took planet 3 in the 73,75 system from Winters_Gonna_Get_Ya (6492).
+SA	T-899		The forces of Mentor took planet 5 in the 73,75 system from Winters_Gonna_Get_Ya (6492).
+SA	T-899		The forces of Mentor took planet 2 in the 73,75 system from Winters_Gonna_Get_Ya (6492).
+SA	T-899		The forces of Mentor took planet 10 in the 73,81 system from Winters_Gonna_Get_Ya (6492).
+SA	T-899		The forces of Mentor took planet 9 in the 9,66 system from Winters_Gonna_Get_Ya (6492).
+EA	T-899		After a brave fight our family member hoit had to flee the planet planet 11 in the 67,93 system which was attacked by Face_Less_Man of family 6492.
+EA	T-899		After a brave fight our family member hoit had to flee the planet planet 12 in the 67,93 system which was attacked by Face_Less_Man of family 6492.
+E	T-898		Swagga explored planet 13 in the 9,66 system.
+E	T-898		Swagga explored planet 5 in the 9,18 system.
+E	T-898		Swagga explored planet 5 in the 24,86 system.
+E	T-898		Swagga explored planet 4 in the 9,18 system.
+E	T-898		Swagga explored planet 4 in the 24,86 system.
+E	T-898		Swagga explored planet 11 in the 9,66 system.
+E	T-898		Swagga explored planet 8 in the 9,66 system.
+E	T-898		Swagga explored planet 5 in the 23,30 system.
+E	T-898		Swagga explored planet 12 in the 9,18 system.
+E	T-898		Swagga explored planet 11 in the 9,18 system.
+E	T-898		Swagga explored planet 7 in the 9,18 system.
+A	T-898		In the name of family cooperation Soul has sent a shipment of 20188498 Cash to hoit.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 10 in the 21,61 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 8 in the 21,61 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 5 in the 21,61 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 12 in the 22,85 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 8 in the 22,85 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 7 in the 22,85 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 3 in the 22,85 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 2 in the 22,85 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 9 in the 25,5 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 11 in the 18,23 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		Our family member Mentor managed to defend planet 11 in the 18,23 system against an attack by forces from Face_Less_Man, family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 9 in the 18,23 system which was attacked by Face_Less_Man of family 6492.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 4 in the 24,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 1 in the 22,82 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		Our family member Mentor managed to defend planet 1 in the 22,82 system against an attack by forces from Face_Less_Man, family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 12 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member hoit had to flee the planet planet 11 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member hoit had to flee the planet planet 9 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 8 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 7 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 7 in the 9,18 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 5 in the 9,18 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 12 in the 9,18 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 5 in the 24,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+EA	T-898		After a brave fight our family member Mentor had to flee the planet planet 1 in the 24,86 system which was attacked by Face_Less_Man of family 6492.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 4 in the 9,18 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 11 in the 9,18 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 5 in the 23,30 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-898		The forces of Mentor took planet 3 in the 18,24 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 5 in the 31,1 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 9 in the 15,31 system from Face_Less_Man (6492).
+SA	T-898		The forces of Mentor took planet 12 in the 17,8 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 4 in the 29,2 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 3 in the 29,2 system from Winters_Gonna_Get_Ya (6492).
+EA	T-898		Our family member Mentor managed to defend planet 3 in the 20,89 system against an attack by forces from Face_Less_Man, family 6492.
+SA	T-898		The forces of Mentor took planet 2 in the 18,24 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 10 in the 29,2 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 2 in the 69,89 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 10 in the 15,31 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 13 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 12 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 10 in the 17,8 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 8 in the 15,31 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 10 in the 31,1 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 11 in the 15,31 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 4 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 5 in the 29,2 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 6 in the 15,31 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 10 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 9 in the 25,5 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 7 in the 29,84 system from Winters_Gonna_Get_Ya (6492).
+SA	T-898		The forces of Mentor took planet 2 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 4% of iron on hand.
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 7% of iron on hand.
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 5% of iron on hand.
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 7% of iron on hand.
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 3% of iron on hand.
+EO	T-897		Wizards of Soul just contanimated the iron reserves of Face_Less_Man. They destroyed 9% of iron on hand.
+SA	T-897		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 13 in the 1,70 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-897		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 2 in the 1,75 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+A	T-897		In the name of family cooperation Kagar has sent a shipment of 70000 Octarine to Soul.
+A	T-896		In the name of family cooperation Soul has sent a shipment of 30000000 Food to TIF.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 2 in the 8,12 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 1 in the 8,12 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 4 in the 8,12 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 13 in the 9,66 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 8 in the 9,66 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 11 in the 9,66 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-896		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 7 in the 8,12 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+A	T-896		In the name of family cooperation Soul has sent a shipment of 33429957 Cash to Swagga.
+IA	T-896		In an intra family fight hoit defeated Swagga and took control over planet 10 in the 21,91 system.
+IA	T-896		In an intra family fight hoit defeated Swagga and took control over planet 6 in the 21,91 system.
+IA	T-896		In an intra family fight hoit defeated Swagga and took control over planet 5 in the 21,91 system.
+IA	T-896		In an intra family fight hoit defeated Kagar and took control over planet 13 in the 21,94 system.
+SA	T-896		The forces of Mentor took planet 12 in the 21,23 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 8 in the 24,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 3 in the 22,85 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 2 in the 22,85 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 5 in the 21,61 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 12 in the 24,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 7 in the 22,85 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 7 in the 24,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 11 in the 18,24 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 8 in the 18,24 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 7 in the 18,24 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 12 in the 22,85 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 1 in the 22,82 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 3 in the 21,23 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 9 in the 18,23 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 11 in the 29,77 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 8 in the 21,61 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 11 in the 18,23 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 10 in the 21,61 system from Winters_Gonna_Get_Ya (6492).
+SA	T-896		The forces of Mentor took planet 8 in the 22,85 system from Winters_Gonna_Get_Ya (6492).
+E	T-895		Kagar explored planet 10 in the 19,17 system.
+E	T-895		Kagar explored planet 11 in the 62,79 system.
+E	T-895		Kagar explored planet 2 in the 74,68 system.
+E	T-895		Kagar explored planet 3 in the 74,68 system.
+E	T-895		Kagar explored planet 4 in the 74,68 system.
+SA	T-895		The forces of Mentor took planet 3 in the 64,81 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 2 in the 67,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 10 in the 67,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 11 in the 67,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 1 in the 64,81 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 3 in the 67,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 9 in the 64,81 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		The forces of Mentor took planet 13 in the 67,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-895		Kagar attacked TheNorthRemembers (6492) on planet 4 in the 74,68 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Kagar attacked TheNorthRemembers (6492) on planet 3 in the 74,68 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Kagar attacked TheNorthRemembers (6492) on planet 2 in the 74,68 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Kagar attacked TheNorthRemembers (6492) on planet 11 in the 62,79 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Kagar attacked TheNorthRemembers (6492) on planet 10 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+A	T-895		In the name of family cooperation TIF has sent a shipment of 20000000 Cash to Swagga.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 7 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 6 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 12 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 10 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 2 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 3 in the 6,22 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-895		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 9 in the 15,31 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+E	T-894		Kagar explored planet 6 in the 74,68 system.
+E	T-894		Kagar explored planet 2 in the 19,17 system.
+E	T-894		Kagar explored planet 10 in the 74,68 system.
+E	T-894		Kagar explored planet 13 in the 19,17 system.
+E	T-894		Swagga explored planet 5 in the 66,84 system.
+E	T-894		Swagga explored planet 2 in the 73,69 system.
+E	T-894		Kagar explored planet 12 in the 19,17 system.
+E	T-894		Kagar explored planet 9 in the 19,17 system.
+E	T-894		Kagar explored planet 4 in the 19,17 system.
+E	T-894		Swagga explored planet 12 in the 73,69 system.
+E	T-894		Swagga explored planet 1 in the 73,69 system.
+E	T-894		Kagar explored planet 1 in the 19,17 system.
+E	T-894		Kagar explored planet 2 in the 71,65 system.
+E	T-894		Kagar explored planet 7 in the 71,65 system.
+E	T-894		Kagar explored planet 12 in the 71,65 system.
+E	T-894		Swagga explored planet 11 in the 21,86 system.
+E	T-894		Swagga explored planet 2 in the 21,86 system.
+E	T-894		Swagga explored planet 9 in the 21,86 system.
+E	T-894		Swagga explored planet 1 in the 21,86 system.
+E	T-894		Swagga explored planet 3 in the 21,86 system.
+E	T-894		Swagga explored planet 11 in the 66,84 system.
+E	T-894		Swagga explored planet 9 in the 66,84 system.
+E	T-894		Swagga explored planet 8 in the 66,84 system.
+E	T-894		Swagga explored planet 5 in the 73,69 system.
+E	T-894		Swagga explored planet 7 in the 73,69 system.
+E	T-894		Swagga explored planet 8 in the 73,69 system.
+E	T-894		Swagga explored planet 11 in the 73,69 system.
+E	T-894		Swagga explored planet 10 in the 73,69 system.
+E	T-894		Swagga explored planet 9 in the 73,69 system.
+E	T-894		Swagga explored planet 4 in the 73,69 system.
+E	T-894		Kagar explored planet 12 in the 66,84 system.
+E	T-894		Swagga explored planet 3 in the 66,84 system.
+E	T-894		Swagga explored planet 3 in the 73,69 system.
+E	T-894		Swagga explored planet 13 in the 21,86 system.
+EA	T-894		After a brave fight our family member Mentor had to flee the planet planet 6 in the 64,81 system which was attacked by Aegon_Targaryen of family 6492.
+EA	T-894		Our family member Mentor managed to defend planet 6 in the 64,81 system against an attack by forces from Aegon_Targaryen, family 6492.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 4 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 3 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 12 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 9 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 10 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 11 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 8 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 7 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 5 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked TheNorthRemembers (6492) on planet 2 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 2 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Blackwater_Kills (6492) on planet 9 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Blackwater_Kills (6492) on planet 4 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Blackwater_Kills (6492) on planet 1 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 1 in the 73,69 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		The forces of Swagga took planet 10 in the 78,74 system from Blackwater_Kills (6492).
+SA	T-894		The forces of Swagga took planet 11 in the 73,86 system from Blackwater_Kills (6492).
+SA	T-894		The forces of Swagga took planet 12 in the 73,86 system from Blackwater_Kills (6492).
+SA	T-894		The forces of Swagga took planet 9 in the 73,86 system from Blackwater_Kills (6492).
+SA	T-894		The forces of Swagga took planet 7 in the 73,86 system from Blackwater_Kills (6492).
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 11 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 9 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 8 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 13 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 11 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 9 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 3 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked TheNorthRemembers (6492) on planet 1 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 2 in the 21,86 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+A	T-894		In the name of family cooperation Kagar has sent a shipment of 16651291 Food to Soul.
+SA	T-894		The forces of Swagga took planet 6 in the 21,91 system from Blackwater_Kills (6492).
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 7 in the 71,65 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 2 in the 71,65 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 12 in the 71,65 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		The forces of Swagga took planet 5 in the 21,91 system from Face_Less_Man (6492).
+FA	T-894		Swagga made an attack against planet 5 in the 21,91 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 10 in the 74,68 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 6 in the 74,68 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 12 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 5 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Swagga attacked Winters_Gonna_Get_Ya (6492) on planet 3 in the 66,84 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 13 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 12 in the 19,17 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-894		The forces of Mentor took planet 6 in the 64,81 system from Face_Less_Man (6492).
+FA	T-894		Mentor made an attack against planet 6 in the 64,81 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+E	T-893		Kagar explored planet 7 in the 23,27 system.
+E	T-893		Kagar explored planet 13 in the 23,27 system.
+SA	T-893		The forces of Swagga took planet 12 in the 71,88 system from Blackwater_Kills (6492).
+SA	T-893		The forces of Swagga took planet 11 in the 71,88 system from Blackwater_Kills (6492).
+SA	T-893		The forces of Swagga took planet 9 in the 71,88 system from Blackwater_Kills (6492).
+SA	T-893		The forces of Swagga took planet 10 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 8 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 7 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 6 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 1 in the 9,18 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 2 in the 9,18 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 4 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+FA	T-893		hoit made an attack against planet 2 in the 24,86 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 13 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+A	T-893		In the name of family cooperation Kagar has sent a shipment of 300000 Iron 75000 Endurium to hoit.
+SA	T-893		The forces of Swagga took planet 2 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 1 in the 71,88 system from Winters_Gonna_Get_Ya (6492).
+FA	T-893		hoit made an attack against planet 2 in the 24,86 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 6 in the 73,86 system from Blackwater_Kills (6492).
+FA	T-893		hoit made an attack against planet 2 in the 24,86 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 2 in the 73,86 system from Blackwater_Kills (6492).
+SA	T-893		The forces of Mentor took planet 8 in the 38,96 system from Face_Less_Man (6492).
+FA	T-893		Mentor made an attack against planet 8 in the 38,96 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+SA	T-893		The forces of hoit took planet 8 in the 21,91 system from Aegon_Targaryen (6492).
+FA	T-893		Swagga made an attack against planet 3 in the 73,86 system owned by John_Snow (6492), but the planet's defense was too strong.
+FA	T-893		hoit made an attack against planet 8 in the 21,91 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 5 in the 73,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 13 in the 23,27 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-893		The forces of Swagga took planet 4 in the 73,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		Kagar attacked Winters_Gonna_Get_Ya (6492) on planet 7 in the 23,27 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-893		The forces of Swagga took planet 10 in the 73,86 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Mentor took planet 11 in the 20,3 system from Aegon_Targaryen (6492).
+FA	T-893		Mentor made an attack against planet 11 in the 20,3 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Kagar took planet 12 in the 74,68 system from Aegon_Targaryen (6492).
+FA	T-893		Kagar made an attack against planet 12 in the 74,68 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 3 in the 92,77 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Kagar took planet 7 in the 19,17 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Swagga took planet 11 in the 92,77 system from Face_Less_Man (6492).
+FA	T-893		Kagar made an attack against planet 7 in the 19,17 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Mentor took planet 7 in the 20,3 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Kagar took planet 1 in the 96,66 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Mentor took planet 4 in the 20,3 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Kagar took planet 12 in the 96,66 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Mentor took planet 1 in the 20,3 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Kagar took planet 10 in the 71,65 system from Aegon_Targaryen (6492).
+FA	T-893		Mentor made an attack against planet 1 in the 20,3 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Kagar took planet 4 in the 71,65 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Swagga took planet 2 in the 98,55 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Swagga took planet 1 in the 98,55 system from Aegon_Targaryen (6492).
+A	T-893		In the name of family cooperation hoit has sent a shipment of 18401678 Food 90265 Iron 339592 Octarine 74487 Endurium to Kagar.
+SA	T-893		The forces of Swagga took planet 13 in the 95,54 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Kagar took planet 3 in the 19,17 system from Face_Less_Man (6492).
+SA	T-893		The forces of Kagar took planet 11 in the 19,17 system from Face_Less_Man (6492).
+SA	T-893		The forces of Swagga took planet 8 in the 95,54 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Kagar took planet 6 in the 22,15 system from Face_Less_Man (6492).
+SA	T-893		The forces of Kagar took planet 6 in the 71,65 system from Face_Less_Man (6492).
+A	T-893		In the name of family cooperation Soul has sent a shipment of 22352842 Cash to Mentor.
+SA	T-893		The forces of Mentor took planet 12 in the 66,80 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Swagga took planet 3 in the 78,74 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Mentor took planet 9 in the 66,80 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Mentor took planet 7 in the 66,80 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Kagar took planet 13 in the 21,94 system from Aegon_Targaryen (6492).
+SA	T-893		The forces of Mentor took planet 1 in the 66,80 system from Winters_Gonna_Get_Ya (6492).
+SA	T-893		The forces of Kagar took planet 3 in the 23,27 system from Face_Less_Man (6492).
+FA	T-893		Mentor made an attack against planet 1 in the 66,80 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 3 in the 23,27 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Swagga took planet 6 in the 73,69 system from Face_Less_Man (6492).
+FA	T-893		Kagar made an attack against planet 13 in the 23,27 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 23,27 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 23,27 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+IA	T-893		In an intra family fight Mentor managed to defend planet 6 in the 95,54 system against an attack by Swagga.
+IA	T-893		In an intra family fight Mentor managed to defend planet 6 in the 90,51 system against an attack by Swagga.
+FA	T-893		Kagar made an attack against planet 13 in the 23,27 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 21,94 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 21,94 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+FA	T-893		Mentor made an attack against planet 1 in the 66,80 system owned by Winters_Gonna_Get_Ya (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 21,94 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 21,94 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+FA	T-893		Kagar made an attack against planet 13 in the 21,94 system owned by Aegon_Targaryen (6492), but the planet's defense was too strong.
+SA	T-893		The forces of Kagar took planet 13 in the 26,100 system from Face_Less_Man (6492).
+FA	T-893		Kagar made an attack against planet 13 in the 26,100 system owned by Face_Less_Man (6492), but the planet's defense was too strong.
+A	T-892		In the name of family cooperation Kagar has sent a shipment of 25000000 Cash 500000 Iron 300000 Octarine 300000 Endurium to hoit.
+T-892		hoit evolved to an empire of Wardancers.
+T-892		Mentor evolved to an empire of Camaar.
+IA	T-892		In an intra family fight Mentor defeated Soul and took control over planet 6 in the 19,17 system.
+EA	T-892		After a brave fight our family member hoit had to flee the planet planet 11 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-892		After a brave fight our family member hoit had to flee the planet planet 9 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-892		After a brave fight our family member hoit had to flee the planet planet 12 in the 6,95 system which was attacked by DonRamirez of family 6499.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 12 in the 14,93 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 13 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 12 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 11 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 10 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 9 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 1 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 3 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 6 in the 6,95 system.
+IA	T-891		In an intra family fight hoit defeated Kagar and took control over planet 4 in the 6,95 system.
+A	T-891		In the name of family cooperation Soul has sent a shipment of 54201530 Cash 15391 Iron 1027 Endurium to TIF.
+A	T-891		In the name of family cooperation hoit has sent a shipment of 45654274 Food to Soul.
+A	T-891		In the name of family cooperation hoit has sent a shipment of 1049440 Iron 101963 Octarine 239950 Endurium to Kagar.
+A	T-890		In the name of family cooperation Kagar has sent a shipment of 50000000 Cash 2350000 Iron 19000 Octarine 427000 Endurium to Mentor.
+A	T-890		In the name of family cooperation Mentor has sent a shipment of 6000000 Iron 300000 Octarine 800000 Endurium to Kagar.
+A	T-890		In the name of family cooperation Kagar has sent a shipment of 35000000 Cash 355000 Octarine 460000 Endurium to TIF.
+A	T-889		In the name of family cooperation TIF has sent a shipment of 303794444 Cash to Kagar.
+A	T-889		In the name of family cooperation Swagga has sent a shipment of 624578 Iron 2046449 Octarine 2033495 Endurium to Kagar.
+EA	T-889		After a brave fight our family member Kagar had to flee the planet planet 7 in the 43,96 system which was attacked by Armada of family 6494.
+E	T-888		Kagar explored planet 1 in the 99,65 system.
+EA	T-887		After a brave fight our family member Kagar had to flee the planet planet 8 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-887		After a brave fight our family member Kagar had to flee the planet planet 7 in the 6,95 system which was attacked by DonRamirez of family 6499.
+EA	T-887		After a brave fight our family member Kagar had to flee the planet planet 5 in the 6,95 system which was attacked by DonRamirez of family 6499.
+A	T-886		In the name of family cooperation Kagar has sent a shipment of 116734 Octarine to Soul.
+A	T-886		In the name of family cooperation Soul has sent a shipment of 21004020 Cash to Kagar.
+A	T-886		In the name of family cooperation Mentor has sent a shipment of 118903024 Food to Soul.
+A	T-886		In the name of family cooperation Mentor has sent a shipment of 588864 Cash 2000000 Iron 100000 Octarine 100000 Endurium to Kagar.
+A	T-886		In the name of family cooperation hoit has sent a shipment of 27752929 Food to Soul.
+A	T-886		In the name of family cooperation hoit has sent a shipment of 634037 Iron 61231 Octarine 146222 Endurium to Swagga.
+E	T-884		Kagar explored planet 2 in the 3,91 system.
+IA	T-884		In an intra family fight Soul managed to defend planet 6 in the 19,17 system against an attack by Mentor.
+IA	T-884		In an intra family fight Mentor defeated hoit and took control over planet 4 in the 21,86 system.
+IA	T-884		In an intra family fight Mentor defeated hoit and took control over planet 1 in the 24,86 system.
+IA	T-884		In an intra family fight TIF managed to defend planet 1 in the 66,84 system against an attack by Mentor.
+IA	T-884		In an intra family fight Mentor defeated hoit and took control over planet 1 in the 69,89 system.
+IA	T-884		In an intra family fight Mentor defeated Swagga and took control over planet 13 in the 73,86 system.
+IA	T-884		In an intra family fight Mentor defeated Soul and took control over planet 11 in the 98,55 system.
+IA	T-884		In an intra family fight Kagar managed to defend planet 1 in the 6,95 system against an attack by Mentor.
+IA	T-884		In an intra family fight Mentor defeated Swagga and took control over planet 6 in the 23,27 system.
+IA	T-884		In an intra family fight Mentor defeated Swagga and took control over planet 9 in the 78,74 system.
+A	T-884		In the name of family cooperation Soul has sent a shipment of 73661356 Cash to Swagga.
+A	T-884		In the name of family cooperation Soul has sent a shipment of 10000000 Cash to Kagar.
+SA	T-884		Kagar attacked Rivan (6499) on planet 2 in the 3,91 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+EA	T-883		Our family member Kagar managed to defend planet 9 in the 6,95 system against an attack by forces from DonRamirez, family 6499.
+A	T-883		In the name of family cooperation hoit has sent a shipment of 636438 Iron 60729 Octarine 149273 Endurium to Swagga.
+A	T-883		In the name of family cooperation hoit has sent a shipment of 28203577 Food to Soul.
+SA	T-882		The forces of Kagar took planet 7 in the 43,96 system from FlutterShy (6495).
+E	T-880		Kagar explored planet 12 in the 6,95 system.
+E	T-880		Kagar explored planet 13 in the 6,95 system.
+SA	T-880		Kagar attacked Inyou (6499) on planet 13 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+SA	T-880		Kagar attacked Inyou (6499) on planet 12 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+A	T-880		In the name of family cooperation hoit has sent a shipment of 4723382 Iron 456042 Octarine 1120961 Endurium to Swagga.
+A	T-880		In the name of family cooperation hoit has sent a shipment of 211616834 Food to Soul.
+E	T-876		Kagar explored planet 11 in the 6,95 system.
+SA	T-876		Kagar attacked Inyou (6499) on planet 11 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 11 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 10 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 9 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 7 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 4 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 3 in the 3,91 system.
+IA	T-876		In an intra family fight Soul defeated Kagar and took control over planet 1 in the 3,91 system.
+A	T-875		In the name of family cooperation Soul has sent a shipment of 12316992 Cash 3160658 Octarine 3253445 Endurium to Swagga.
+A	T-875		In the name of family cooperation Swagga has sent a shipment of 64367028 Cash 4660658 Octarine 3435263 Endurium to Soul.
+E	T-874		Kagar explored planet 9 in the 6,95 system.
+A	T-874		In the name of family cooperation Soul has sent a shipment of 98888474 Cash 5411734 Iron 4426772 Octarine 1360516 Endurium to Swagga.
+SA	T-874		Kagar attacked Inyou (6499) on planet 9 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+E	T-872		Kagar explored planet 8 in the 6,95 system.
+A	T-872		In the name of family cooperation Swagga has sent a shipment of 91030039 Cash 7919894 Iron 1031786 Octarine 1543669 Endurium to Soul.
+SA	T-872		Kagar attacked KromarfKrom (6499) on planet 8 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+E	T-871		Kagar explored planet 7 in the 6,95 system.
+E	T-871		Kagar explored planet 5 in the 6,95 system.
+SA	T-871		Kagar attacked KromarfKrom (6499) on planet 7 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+FA	T-871		Kagar made an attack against planet 7 in the 6,95 system owned by KromarfKrom (6499), but the planet's defense was too strong.
+SA	T-871		Kagar attacked Rivan (6499) on planet 5 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 3 in the 98,55 system.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 7 in the 95,54 system.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 7 in the 98,55 system.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 9 in the 98,55 system.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 11 in the 98,55 system.
+IA	T-869		In an intra family fight Soul defeated Swagga and took control over planet 5 in the 98,55 system.
+A	T-868		In the name of family cooperation Kagar has sent a shipment of 90000 Iron to Swagga.
+A	T-868		In the name of family cooperation Kagar has sent a shipment of 40397482 Cash 1700000 Iron to Swagga.
+A	T-868		In the name of family cooperation Soul has sent a shipment of 53475285 Cash 1975135 Iron to Kagar.
+E	T-867		Kagar explored planet 6 in the 6,95 system.
+E	T-867		Kagar explored planet 10 in the 6,95 system.
+FA	T-867		Kagar made an attack against planet 9 in the 6,95 system owned by Inyou (6499), but the planet's defense was too strong.
+SA	T-867		Kagar attacked Inyou (6499) on planet 6 in the 6,95 system, and the heavy battle made the planet uninhabitable; an exploration ship will have to be sent there.
+FA	T-867		Kagar made an attack against planet 6 in the 6,95 system owned by Inyou (6499), but the planet's defense was too strong.
+E	T-863		Kagar explored planet 1 in the 6,95 system.
+E	T-863		Kagar explored planet 3 in the 6,95 system.
+E	T-863		Kagar explored planet 4 in the 6,95 system.
+E	T-863		Kagar explored planet 1 in the 5,90 system.
+A	T-860		In the name of family cooperation Mentor has sent a shipment of 102682536 Food to Soul.
+IA	T-860		In an intra family fight Kagar managed to defend planet 1 in the 14,86 system against an attack by Mentor.
+IA	T-860		In an intra family fight Soul defeated Kagar and took control over planet 6 in the 9,22 system.
+IA	T-860		In an intra family fight Soul defeated Kagar and took control over planet 4 in the 9,22 system.
+IA	T-860		In an intra family fight Soul defeated Kagar and took control over planet 3 in the 9,22 system.
+IA	T-860		In an intra family fight Soul defeated Kagar and took control over planet 1 in the 9,22 system.
+IA	T-860		In an intra family fight Soul defeated Kagar and took control over planet 2 in the 9,22 system.
+A	T-859		In the name of family cooperation Soul has sent a shipment of 65004024 Cash 404934 Iron 763532 Endurium to Swagga.
+A	T-856		In the name of family cooperation hoit has sent a shipment of 2029157 Iron 193624 Octarine 475923 Endurium to Swagga.
+A	T-856		In the name of family cooperation hoit has sent a shipment of 89791206 Food to Soul.
+EA	T-852		Our family member Kagar managed to defend planet 1 in the 14,86 system against an attack by forces from DonRamirez, family 6499.
+EA	T-851		Our family member Kagar managed to defend planet 6 in the 3,91 system against an attack by forces from DonRamirez, family 6499.
+A	T-851		In the name of family cooperation Soul has sent a shipment of 20530710 Cash to TIF.
+A	T-850		In the name of family cooperation TIF has sent a shipment of 10000000 Cash to Kagar.
+IA	T-849		In an intra family fight Kagar managed to defend planet 13 in the 14,93 system against an attack by Soul.
+IA	T-849		In an intra family fight Kagar managed to defend planet 1 in the 14,86 system against an attack by Soul.
+IA	T-849		In an intra family fight Soul defeated Kagar and took control over planet 6 in the 62,79 system.
+IA	T-849		In an intra family fight Soul defeated Kagar and took control over planet 5 in the 14,93 system.
+A	T-848		In the name of family cooperation Soul has sent a shipment of 80584952 Cash to Swagga.
+A	T-848		In the name of family cooperation Soul has sent a shipment of 15000000 Cash to Kagar.
+E	T-847		Kagar explored planet 11 in the 3,91 system.
+E	T-847		Kagar explored planet 10 in the 3,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 8 in the 21,94 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 7 in the 18,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 9 in the 18,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 6 in the 19,17 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 6 in the 18,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 4 in the 18,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 8 in the 18,91 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 5 in the 30,24 system.
+IA	T-847		In an intra family fight Soul defeated Swagga and took control over planet 13 in the 18,91 system.
+IA	T-846		In an intra family fight Soul defeated Swagga and took control over planet 4 in the 30,24 system.
+A	T-846		In the name of family cooperation hoit has sent a shipment of 2403119 Iron 229304 Octarine 563637 Endurium to Swagga.
+A	T-846		In the name of family cooperation hoit has sent a shipment of 106361979 Food to Soul.
+SA	T-844		The forces of Kagar took planet 1 in the 14,86 system from DonRamirez (6499).
+E	T-843		Kagar explored planet 7 in the 3,91 system.
+E	T-843		Kagar explored planet 9 in the 3,91 system.
+A	T-843		In the name of family cooperation TIF has sent a shipment of 5700189 Cash to Kagar.
+SA	T-843		The forces of Kagar took planet 6 in the 3,91 system from DonRamirez (6499).
+IA	T-842		In an intra family fight Kagar managed to defend planet 13 in the 14,93 system against an attack by Mentor.
+EA	T-839		After a brave fight our family member Kagar had to flee the planet planet 5 in the 5,90 system which was attacked by DonRamirez of family 6499.
+A	T-838		In the name of family cooperation Soul has sent a shipment of 10219481 Cash to Kagar.
+A	T-837		In the name of family cooperation Soul has sent a shipment of 1600000 Iron 100000 Octarine 275000 Endurium to Kagar.
+EA	T-837		Our family member Kagar managed to defend planet 2 in the 6,95 system against an attack by forces from DonRamirez, family 6499.
+A	T-837		In the name of family cooperation Soul has sent a shipment of 10281843 Cash to Kagar.
+A	T-837		In the name of family cooperation Mentor has sent a shipment of 49401483 Food to Soul.
+E	T-836		Kagar explored planet 3 in the 3,91 system.
+E	T-836		Kagar explored planet 1 in the 3,91 system.
+E	T-836		Kagar explored planet 5 in the 3,91 system.
+E	T-836		Kagar explored planet 4 in the 3,91 system.
+A	T-836		In the name of family cooperation Soul has sent a shipment of 10000000 Cash to Kagar.
+A	T-836		In the name of family cooperation Soul has sent a shipment of 10000000 Cash to hoit.
+A	T-836		In the name of family cooperation Soul has sent a shipment of 10000000 Cash to Mentor.
+SA	T-835		The forces of Kagar took planet 5 in the 5,90 system from DonRamirez (6499).
+A	T-834		In the name of family cooperation hoit has sent a shipment of 3685369 Iron 346369 Octarine 864383 Endurium to Mentor.
+A	T-834		In the name of family cooperation hoit has sent a shipment of 163625681 Food to Soul.
+EA	T-834		Our family member Kagar managed to defend planet 2 in the 6,95 system against an attack by forces from DonRamirez, family 6499.
+EA	T-834		After a brave fight our family member Kagar had to flee the planet planet 7 in the 14,93 system which was attacked by DonRamirez of family 6499.
+EA	T-834		After a brave fight our family member Kagar had to flee the planet planet 1 in the 14,93 system which was attacked by DonRamirez of family 6499.
+EA	T-834		After a brave fight our family member Kagar had to flee the planet planet 9 in the 15,86 system which was attacked by DonRamirez of family 6499.
+EA	T-834		After a brave fight our family member Kagar had to flee the planet planet 10 in the 15,86 system which was attacked by DonRamirez of family 6499.
+EA	T-831		Our family member Kagar managed to defend planet 2 in the 6,95 system against an attack by forces from DonRamirez, family 6499.
+EA	T-828		After a brave fight our family member Kagar had to flee the planet planet 1 in the 14,86 system which was attacked by DonRamirez of family 6499.
+EA	T-828		After a brave fight our family member Kagar had to flee the planet planet 2 in the 16,89 system which was attacked by DonRamirez of family 6499.
+EA	T-828		Our family member Kagar managed to defend planet 2 in the 16,89 system against an attack by forces from DonRamirez, family 6499.
+A	T-826		In the name of family cooperation Mentor has sent a shipment of 35458601 Food 1758818 Iron 394387 Octarine 273914 Endurium to Soul.
+SA	T-825		The forces of Kagar took planet 10 in the 15,86 system from DonRamirez (6499).
+SA	T-825		The forces of Kagar took planet 9 in the 15,86 system from DonRamirez (6499).
+A	T-825		In the name of family cooperation Soul has sent a shipment of 5901404 Cash to Kagar.
+EA	T-819		After a brave fight our family member Kagar had to flee the planet planet 2 in the 12,87 system which was attacked by DonRamirez of family 6499.
+EA	T-819		Our family member Kagar managed to defend planet 2 in the 12,87 system against an attack by forces from DonRamirez, family 6499.
+A	T-819		In the name of family cooperation TIF has sent a shipment of 40980121 Cash to Soul.
+A	T-818		In the name of family cooperation Mentor has sent a shipment of 21970708 Food to Soul.
+A	T-818		In the name of family cooperation Soul has sent a shipment of 5000000 Cash to Kagar.
+A	T-815		In the name of family cooperation hoit has sent a shipment of 9367988 Food 169501 Iron 13228 Octarine 21398 Endurium to Soul.
+E	T-814		Kagar explored planet 1 in the 14,93 system.
+E	T-814		Kagar explored planet 7 in the 14,93 system.
+A	T-814		In the name of family cooperation hoit has sent a shipment of 5472 Cash 22178176 Food 428392 Iron 66144 Octarine 19104 Endurium to Soul.
+SA	T-814		The forces of Kagar took planet 1 in the 14,86 system from DonRamirez (6499).
+A	T-813		In the name of family cooperation Mentor has sent a shipment of 169949 Cash 58639682 Food 2645325 Iron 547804 Octarine 396182 Endurium to Soul.
+A	T-812		In the name of family cooperation Soul has sent a shipment of 7000000 Cash to Kagar.
+SA	T-811		The forces of Kagar took planet 2 in the 6,95 system from DonRamirez (6499).
+FA	T-811		Kagar made an attack against planet 2 in the 6,95 system owned by DonRamirez (6499), but the planet's defense was too strong.
+A	T-810		In the name of family cooperation hoit has sent a shipment of 5607164 Food to Soul.
+A	T-810		In the name of family cooperation TIF has sent a shipment of 2503668 Iron 912690 Endurium to Soul.
+A	T-810		In the name of family cooperation TIF has sent a shipment of 6373474 Cash to hoit.
+A	T-809		In the name of family cooperation hoit has sent a shipment of 1751168 Cash to TIF.
+A	T-809		In the name of family cooperation hoit has sent a shipment of 4173611 Food 2516249 Iron 917276 Endurium to TIF.
+EA	T-809		After a brave fight our family member TIF had to flee the planet planet 1 in the 41,100 system which was attacked by Armada of family 6494.
+A	T-809		In the name of family cooperation TIF has sent a shipment of 5000000 Food to hoit.
+A	T-809		In the name of family cooperation TIF has sent a shipment of 31902844 Cash 4345068 Iron 602733 Endurium to hoit.
+A	T-809		In the name of family cooperation Soul has sent a shipment of 58279655 Cash 576544 Iron 696994 Endurium to hoit.
+A	T-809		In the name of family cooperation hoit has sent a shipment of 4345068 Iron 339123 Octarine 548535 Endurium to TIF.
+A	T-809		In the name of family cooperation hoit has sent a shipment of 140738882 Food to Soul.
+EA	T-807		After a brave fight our family member Mentor had to flee the planet planet 7 in the 43,96 system which was attacked by Armada of family 6494.
+EA	T-807		Our family member TIF managed to defend planet 13 in the 38,4 system against an attack by forces from Armada, family 6494.
+EA	T-804		After a brave fight our family member Kagar had to flee the planet planet 1 in the 14,86 system which was attacked by DonRamirez of family 6499.
+EA	T-804		After a brave fight our family member Kagar had to flee the planet planet 4 in the 12,87 system which was attacked by DonRamirez of family 6499.
+EA	T-804		After a brave fight our family member Kagar had to flee the planet planet 9 in the 17,86 system which was attacked by DonRamirez of family 6499.
+EA	T-804		After a brave fight our family member Kagar had to flee the planet planet 8 in the 14,93 system which was attacked by DonRamirez of family 6499.
+EA	T-803		After a brave fight our family member Mentor had to flee the planet planet 9 in the 33,56 system which was attacked by Armada of family 6494.
+EA	T-803		After a brave fight our family member Mentor had to flee the planet planet 5 in the 25,58 system which was attacked by Armada of family 6494.
+EA	T-803		After a brave fight our family member Mentor had to flee the planet planet 13 in the 23,32 system which was attacked by Armada of family 6494.
+EA	T-803		After a brave fight our family member Mentor had to flee the planet planet 11 in the 22,99 system which was attacked by Armada of family 6494.
+Universal News
+AngelsofHellsKitchen took 72,45:2 from CaptainRising.
+DonRamirez took 3,91:1 from Soul.
+DonRamirez took 3,91:3 from Soul.
+DonRamirez took 3,91:4 from Soul.
+DonRamirez took 3,91:7 from Soul.
+Family Topics
+ 	Welcome to the Family #6500 forums!
+ 	WTF
+Community Topics
+ 	Happy no collusion day
+ 	Milky Way 68 and UA
+ 	Public Market Ledger
+ 	Removing Anonymous Play
+ 	Playing undercover

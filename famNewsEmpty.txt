@@ -1,8 +1,0 @@
-
-E	T-50		hoit explored planet 12 in the 51,91 system.
-E	T-50		hoit explored planet 5 in the 51,90 system.
-E	T-50		hoit explored planet 4 in the 51,90 system.
-E	T-50		hoit explored planet 1 in the 51,91 system.
-E	T-50		hoit explored planet 5 in the 51,91 system.
-E	T-50		hoit explored planet 7 in the 51,91 system.
-E	T-50		hoit explored planet 8 in the 51,91 system.
