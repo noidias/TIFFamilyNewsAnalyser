@@ -1,6 +1,7 @@
 # TIFFamilyNewsAnalyser
 
 To run Locally example
+
 cd Development\basicForm
 mvnw spring-boot:run
 pause
