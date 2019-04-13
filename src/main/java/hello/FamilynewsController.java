@@ -7,16 +7,16 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
 @Controller
-public class GreetingController {
+public class FamilynewsController {
 
-    @GetMapping("/greeting")
-    public String greetingForm(Model model) {
-        model.addAttribute("greeting", new Greeting());
-        return "greeting";
+    @GetMapping("/familynews")
+    public String familynewsForm(Model model) {
+        model.addAttribute("familynews", new Familynews());
+        return "familynews";
     }
 
-    @PostMapping("/greeting")
-    public String greetingSubmit(@ModelAttribute Greeting greeting) {
+    @PostMapping("/familynews")
+    public String familynewsSubmit(@ModelAttribute Familynews familynews) {
         return "result";
     }
 

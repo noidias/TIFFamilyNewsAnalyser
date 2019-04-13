@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Open the family news page, hit CTRL+A on it, CTRL+C and paste it into the field below.</h1>
-    <form action="#" th:action="@{/greeting}" th:object="${greeting}" method="post">
+    <form action="#" th:action="@{/familynews}" th:object="${familynews}" method="post">
         <p><textarea rows = "50" cols = "100" th:field="*{content}">...</textarea>
         <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
     </form>

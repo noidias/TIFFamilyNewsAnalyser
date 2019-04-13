@@ -58,8 +58,8 @@ public class FamilyNewsAnalyser {
 		String exploreReport = Reporting.printSummaryPlanets(exploreArray, "Explored");
 		System.out.println(exploreReport);
 		report = Reporting.appendString(report,exploreReport);
-		String exploreList = Reporting.printArrayExplored(exploreArray);	
-		report = Reporting.appendString(report,exploreList);
+		//String exploreList = Reporting.printArrayExplored(exploreArray);	
+		//report = Reporting.appendString(report,exploreList);
 		
 		
 		
@@ -68,8 +68,8 @@ public class FamilyNewsAnalyser {
 		String captureReport = Reporting.printSummaryPlanets(captureArray, "Captures");
 		System.out.println(captureReport);
 		report = Reporting.appendString(report,captureReport);
-		String capList = Reporting.printArrayExplored(captureArray);	
-		report = Reporting.appendString(report,capList);
+		//String capList = Reporting.printArrayExplored(captureArray);	
+		//report = Reporting.appendString(report,capList);
 		
 		defeatsArray = ExtractData.extractPlanetData(defeatPattern, famNews);
 		String defeatsReport = Reporting.printSummaryPlanets(defeatsArray, "Defeats");
@@ -79,19 +79,19 @@ public class FamilyNewsAnalyser {
 		//blow ups Attacks
 		blownSaArray =ExtractData.extractDataBlownSA(blownSAPattern, famNews);
 		String blownSaReport = Reporting.printSummaryPlanets(blownSaArray, "blown ups by");
-		System.out.println(blownSaReport);
+		//System.out.println(blownSaReport);
 		report = Reporting.appendString(report,blownSaReport);
 			
 		//blow ups defeats
 		blownEaArray =ExtractData.extractDataBlownEA(blownEAPattern, famNews);
 		lostBlownArray = Reporting.findOutstandingBlowPLanets(captureArray, blownEaArray, exploreArray);
 		String lostBlownReport = Reporting.printSummaryPlanets(blownEaArray, "blown ups lost");
-		System.out.println(lostBlownReport);
+		//System.out.println(lostBlownReport);
 		report = Reporting.appendString(report,lostBlownReport);
 		
 		
 		String lostBlownplanetsReport = Reporting.printArray(lostBlownArray);
-		System.out.println(lostBlownplanetsReport);
+		//System.out.println(lostBlownplanetsReport);
 		report = Reporting.appendString(report,lostBlownplanetsReport);
 		
 		

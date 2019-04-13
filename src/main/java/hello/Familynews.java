@@ -2,7 +2,7 @@ package hello;
 
 import analyserApplication.FamilyNewsAnalyser;
 
-public class Greeting {
+public class Familynews {
 
     private String id;
     private String content;
